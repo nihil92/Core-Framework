@@ -20,3 +20,54 @@ Make sure to install the most recent version of [**SDL**](https://github.com/Sor
 
 # Disclaimer
 This is a non-profit project made for learning purposes. We do not intend to infringe any copyright. Do whatever you want with this engine, as long as you give credit to everyone involved in this project and that you do not sell Sonic games made with this engine under any circumstances.
+
+# Documentation
+
+Used groups:
+
+0: Solid (Flag 0 on = NON SOLID / Flag 0 off = SOLID)
+1: Platform (in case of you want to use a platform backdrop, put this one AND Generic 1)
+2: No Slope Checking
+3: Layer 0
+4: Layer 1
+5: Platform Sink
+6: Moving Platform
+7: Pushable
+8: Crushable
+9: Attach Objects
+
+Data: Pausable (to stop the animations during the pause).
+Player: Skins
+Friends: Sensors
+Enemy: Badniks
+Arm: Hurtable Object
+Bullet: Bullet
+Shield: Stop
+Ball: Bumpers
+Invisible: Breaking Platforms
+Powerup: Monitors
+
+Drawning: Bridges
+Neutral: Swing (Spawner)
+Good: Swing (Main Object)
+Engine: Remove objects outside the frame
+Flowes: Vines (Swing Rope)
+Reference Points: Invincible Stars
+
+Movable: Conveyor Belts
+Value Holder: Corkscrews
+Dissolving: Falling Platforms
+Water: Water Pools
+Waveform: Fans
+Particles: Bubbles
+Bosses: ...Bosses
+Arrows: Hanging Bars
+Clothes: Capsule
+Explosions: ...Explosions
+Keys: Switches
+Doors: Doors
+Obstacles: Solid (to work with another solid).
+Target: Portals.
+
+Generic 1: Platform
+Generic 2: Spike Balls (for Mighty)
