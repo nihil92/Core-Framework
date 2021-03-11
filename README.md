@@ -70,4 +70,4 @@ Obstacles: Solid (to work with another solid).
 Target: Portals.
 
 Generic 1: Platform
-Generic 2: Spike Balls (for Mighty)
+Generic 2: Spike Balls (for Mighty
