@@ -20,7 +20,7 @@ We've added a gumball machine bonus stage and a unfinished Blue Spheres example 
 
 # Basic usage
 
-Make sure to install the most recent version of [**SDL**](https://github.com/SortaCore/SDLJoystick/releases) to make this works.
+Make sure to install the most recent version of [**SDL**](https://github.com/SortaCore/SDLJoystick/releases) to make this works. If the _Global Event Editor_ don't display the variables, don't worry. Just go to Proprieties/Events and check if the base frame is Test Level.
 
 # Documentation
 
