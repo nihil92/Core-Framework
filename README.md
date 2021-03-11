@@ -16,7 +16,7 @@ We've added a gumball machine bonus stage and a unfinished Blue Spheres example 
 
 # Important
 
-
+Make sure to install the most recent version of [SDL](https://github.com/SortaCore/SDLJoystick/releases) to make this works.
 
 # Disclaimer
 This is a non-profit project made for learning purposes. We do not intend to infringe any copyright. Do whatever you want with this engine, as long as you give credit to everyone involved in this project and that you do not sell Sonic games made with this engine under any circumstances.
