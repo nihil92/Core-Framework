@@ -18,7 +18,7 @@ We've added a gumball machine bonus stage and a unfinished Blue Spheres example 
 
 # Basic usage
 
-Make sure to install the most recent version of [**SDL**](https://github.com/SortaCore/SDLJoystick/releases) to make this works.
+Make sure to install the most recent version of [**SDL**](https://github.com/SortaCore/SDLJoystick/releases) and the Studiopolis shader to make this works.
 
 # Documentation
 
