@@ -14,7 +14,9 @@ Talking about the base, we keep some things from the original base, such as some
 
 Other important parts like rings, camera, sensors, physics, collision, landing and angle detection, have been completely different. It has support for SDL Joystick, volume control, display options, save system, smooth rotation and classic rotation. It also contains alot of gimmicks, items and features to you build your fangame with the most higher standards.
 
-Some things that naturally worked great were ported from Sonic Worlds Delta, like the parallax system, tunnels, screw, corkscrew and breakable floor in with slight adaptations, but everything else was rewritten by us.
+Some things that naturally worked great were ported from Sonic Worlds Delta, like tunnels, screw, corkscrew and breakable floor in with slight adaptations, but everything else was rewritten by us.
+
+
 
 # Basic usage
 
