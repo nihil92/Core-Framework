@@ -1,6 +1,7 @@
 # Core Framework
 
 Core is a open-source Sonic framework for _Clickteam Fusion 2.5+_ written through Sonic Worlds, created by [**Nihil**](https://github.com/nihil92/) in association with Tyson Tay, Lighto, Ainand, YohananDiamond, Chopp, Yonatankr, Dark, Joshyflip, Carlos Ushiromiya, Dolphman, Yolkin, Troopsushi, Angeloz, Jeloboi and Nuclear.
+
 # Disclaimer
 
 This is a non-profit project made for learning purposes. We do not intend to infringe any copyright laws. You are free to use this framework for any project you want, as long as you give credit to everyone involved in this project. You can even use this framework to develop commercial games, as long as you don't use anything protected by copyright (e.g. don't commercialize a game using the Sonic the Hedgehog brand under any circumstances).
@@ -14,8 +15,6 @@ Talking about the base, we keep some things from the original base, such as some
 Other important parts like rings, camera, sensors, physics, collision, landing and angle detection, have been completely different. It has support for SDL Joystick, volume control, display options, save system, smooth rotation and classic rotation. It also contains alot of gimmicks, items and features to you build your fangame with the most higher standards.
 
 Some things that naturally worked great were ported from Sonic Worlds Delta, like tunnels, screw, corkscrew and breakable floor in with slight adaptations, but everything else was rewritten by us.
-
-
 
 # Requirements
 
