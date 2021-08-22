@@ -1,6 +1,6 @@
 # Core Framework
 
-Core is a open-source Sonic framework for _Clickteam Fusion 2.5+_ written using some elements from Sonic Worlds framework, created by @nihil92 in association with Tyson Tay, Lighto, Ainand, YohananDiamond, Chopp, Yonatankr, Dark, Joshyflip, Carlos Ushiromiya, Dolphman, Yolkin, Troopsushi, Angeloz, Jeloboi and Nuclear.
+Core is a open-source Sonic framework for _Clickteam Fusion 2.5+_ written using some elements from Sonic Worlds framework, created by [**Nihil**](https://github.com/nihil92/) in association with Tyson Tay, Lighto, Ainand, YohananDiamond, Chopp, Yonatankr, Dark, Joshyflip, Carlos Ushiromiya, Dolphman, Yolkin, Troopsushi, Angeloz, Jeloboi and Nuclear.
 # Disclaimer
 
 This is a non-profit project made for learning purposes. We do not intend to infringe any copyright laws. You are free to use this framework for any project you want, as long as you give credit to everyone involved in this project. You can even use this framework to develop commercial games, as long as you don't use anything protected by copyright (e.g. don't commercialize a game using the Sonic the Hedgehog brand under any circumstances).
