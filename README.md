@@ -20,7 +20,7 @@ Some things that naturally worked great were ported from Sonic Worlds Delta, lik
 
 # Requirements
 
-You need to purchase Clickteam Fusion 2.5+ to work on it. Make sure to install the most recent version of [**SDL**](https://github.com/SortaCore/SDLJoystick/releases) and the Studiopolis shader to make this works.
+You need to purchase Clickteam Fusion 2.5+ to use it. Make sure to install the most recent version of [**SDL**](https://github.com/SortaCore/SDLJoystick/releases) and the Studiopolis shader to make this works.
 
 # Documentation
 
