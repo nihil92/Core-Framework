@@ -4,7 +4,7 @@ Core is a open-source Sonic framework for _Clickteam Fusion 2.5+_ written throug
 
 # Disclaimer
 
-This is a non-profit project made for learning purposes. We do not intend to infringe any copyright laws. You are free to use this framework for any project you want, as long as you give credit to everyone involved in this project. You can even use this framework to develop commercial games, as long as you don't use anything protected by copyright (e.g. don't commercialize a game using the Sonic the Hedgehog brand under any circumstances).
+This is a non-profit project made for learning purposes. We do not intend to infringe any copyright laws. You are free to use this framework for any project you want, as long as you give credit to everyone involved in this project. You can even use this framework to develop commercial games, as long as you don't use anything protected by copyright in your game (e.g. don't commercialize a game using the Sonic the Hedgehog brand under any circumstances).
 
 # Features
 
