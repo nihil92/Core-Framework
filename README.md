@@ -22,7 +22,7 @@ You need to purchase Clickteam Fusion 2.5+ to use it. Make sure to install the m
 
 # Discord Server
 
-https://discord.gg/SFTsrcPdAd
+https://discord.gg/hV6nbxwkE7
 
 # Documentation
 
