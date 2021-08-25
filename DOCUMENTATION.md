@@ -12,6 +12,10 @@
 
 # Core Framework
 
+## Parallax System
+
+In order to remove Sonic Worlds' limited parallax system, Lighto and me decided to work on a completely new system. In addition to allowing animations without the need for a workaround, it is considerably lighter than using the Background System Box. Also, it uses logic and math, rather than extensions. However, it can be tricky to use without understanding how the new system works. Remember it's a new system, with different math. Therefore, you cannot use the same values ​​that you used in Worlds parallaxes. You need to set different values.
+
 ## Layer Switching
 
 To prevent the player to gets stuck in loopings, please keep all the objects related to layer switching with the option "Inactive if too far from window" _DISABLED_. If you ever need the posibility of creating more complex level layouts, like S3 Angel Island Loop closer to the tree, or Sandopolis loop gimmick. With this you can get a start up in it. Layer 2 makes all layers deactivate, so you need to add an extra collision system that only checks for it. Layer 3 makes all layers activate, this can by tide to a gimmick of sort, like the already mention Sandopolis Act 2 Gimmick.
