@@ -63,20 +63,20 @@ You need to compare two general values to use these formulas.
 To get "compare two general values" condition, just click on gear icon and select the option there.
 
 ## Getting the distance between 2 points
-> Abs(x1 - x2) pow 2 + abs(y1 - y2) pow 2
+```Abs(x1 - x2) pow 2 + abs(y1 - y2) pow 2```
 
 ## Getting the distance between 2 points (Euclidean)
-> Sqr(((x1 - x2) + pow2) + ((y1 - y2) pow 2))
+```Sqr(((x1 - x2) + pow2) + ((y1 - y2) pow 2))```
 
 ## Getting the distance between 2 points (Manhathan)
-> Abs(x1 - x2) + abs(y1 - y2)
+```Abs(x1 - x2) + abs(y1 - y2)```
 
 ## Getting the angle between 2 points
-> Atan2(y2 - y1, x2 - x1)
+```Atan2(y2 - y1, x2 - x1)```
 
 ## Getting the difference between two angles
-If "Abs" is omitted the sign indicates the direction (clockwise or anti-clockwise)
-Abs((((a - b + 540) mod 360) - 180)
+### If "Abs" is omitted the sign indicates the direction (clockwise or anti-clockwise)
+```Abs((((a - b + 540) mod 360) - 180)```
 
 ## Generate random numbers
 > RRandom(a, b)
