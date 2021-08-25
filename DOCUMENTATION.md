@@ -1,4 +1,4 @@
-# Fusion Tips
+# General Tips
 
 - To close all the codes group, go to "Events" > "Close all groups".
 
@@ -7,6 +7,8 @@
 - If you want to see a object in event editor by icon, name or both, simply go to "Tools" > "Proprieties" > "Event List Editor" and check the flags as you like.
 
 - To make a backdrop solid, just check the object proprieties and set the Obstacle Type as "Obstacle".
+
+- If the names in global events "disappear" go to "Application Proprieties" > "Events" and check if the base frame is Test Level (or whatever you like).
 
 # Core Framework
 
