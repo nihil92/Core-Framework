@@ -8,11 +8,11 @@ This is a non-profit project made for learning purposes. We do not intend to inf
 
 # Features
 
-The base 360 Platform Movement and physics is already finished. The codes were built to be more economical, saving performance and making it easier for users to understand. An extensive internal documentation was been written, including used groups and math formulas.
+The base 360 Platform Movement and physics is already finished. The codes were built to be more economical, saving performance and making it easier for users to understand. An extensive internal documentation was been written.
 
-Talking about the base, we keep some things from the original base, such as some parts of the movement routine and the actions system using group activation/deactivation, but everything with some rewritting and/or improvements (e.g. the actions which were all rewritten, keeping only the way they are activated and deactivated).
+Talking about the base, we keep some things from the original base, such as _some_ parts of the movement routine and the actions system using group activation/deactivation, but everything with some rewritting and/or improvements (e.g. the actions which were all rewritten, keeping only the way they are activated and deactivated).
 
-Other important parts like rings, camera, sensors, physics, collision, landing and angle detection, have been completely different. It has support for SDL Joystick, volume control, display options, save system, smooth rotation and classic rotation. It also contains alot of gimmicks, items and features to you build your fangame with the most higher standards.
+Other important parts like rings, camera, sensors, physics, collision, landing, rotation and angle detection, have been completely our own. It has support for SDL Joystick, volume control, display options, save system. It also contains alot of gimmicks, items and features to you build your fangame with the most higher standards.
 
 Some things that naturally worked great were ported from Sonic Worlds Delta, like tunnels, screw, corkscrew and breakable floor in with slight adaptations, but everything else was rewritten by us.
 
@@ -26,4 +26,4 @@ https://discord.gg/hV6nbxwkE7
 
 # Documentation
 
-Still a work in progress. It will be updated every saturday.
+Still a work in progress. 
