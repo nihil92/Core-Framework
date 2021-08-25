@@ -40,14 +40,17 @@ Duplicate a bridge spawner, edit the object width to a number multiples of 16 an
 
 ## Helper Objects
 
-### No Land
+### No Land Object
 >If the sensors collides with this region, the angle detecting will be locked. This is useful for stairs using too short tiles, like 16x16 or sloped ledges.
 
-### Crush
->If the wall, ground or ceil sensors collide with this region, the player will be crushed.
+### Crush Object
+>It's self-explanatory, but that's okay. If the wall, ground or ceil sensors collide with this region, the player will be crushed.
 
-### Stop
+### Stop Object
 >Used to stop or revert direction for almost everything in the framework, like enemies and gimmicks. It's very useful as we don't need to create a sensor for each object.
+
+### Angle Breakers
+>Used to replicate the ramp launcher (that famous one after the S-tunnels on Green Hill Zone).
 
 ## Used Groups (Qualifiers)
 
