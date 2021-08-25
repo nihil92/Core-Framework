@@ -12,6 +12,14 @@
 
 # Core Framework
 
+## Audio System
+
+### Music Loop
+
+To use the loop system, simply set the values of LoopEnd and LoopStart to the correct number values for the loop point. 
+
+The loop points are measured exactly like normal music. But it can be confusing without the colons. so 123000 would be 1:23 exactly.
+
 ## Parallax System
 
 In order to remove Sonic Worlds' limited parallax system, Lighto and me decided to work on a completely new system. In addition to allowing animations without the need for a workaround, it is considerably lighter than using the Background System Box. Also, it uses logic and math, rather than extensions. However, it can be tricky to use without understanding how the new system works. Remember it's a new system, with different math. Therefore, you cannot use the same values that you used in Worlds parallaxes. You need to set different values.
