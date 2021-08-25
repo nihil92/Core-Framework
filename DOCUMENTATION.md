@@ -87,16 +87,16 @@ To get "compare two general values" condition, just click on gear icon and selec
 ```Random(b - a) + a```
 
 ## Check if a number is even
-```**Number** mod 2 = 0```
+```I<Insert Number> mod 2 = 0```
 
 ## Check if a number is odd
-```**Number** mod 2 = 1```
+```<Insert Number> mod 2 = 1```
 
 ## Return the sign of a number
-```**Number** / Abs(**Number**)```
+```<Insert Number> / Abs(<Insert Number>)```
 
 ## Convert a Hex Angle
-```(256 - hex angle) * 1.40625```
+```(256 - <Hex Angle>) * 1.40625```
 
 ## Flashing (Nihil's)
 Set alpha-blending coefficient to ```((GlobalTimer("MasterLevel") / <flash cycle duration> ) mod 2) * 255```
