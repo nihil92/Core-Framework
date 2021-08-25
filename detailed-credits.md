@@ -1,4 +1,4 @@
-# Coding
+# Coding Credits
 
 ## Nihil
   - Sensors;
