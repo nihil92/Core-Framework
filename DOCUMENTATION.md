@@ -10,7 +10,7 @@
 
 # Used Groups #
 
-Group.0 - Solid // Flag 0 on = NON SOLID / Flag 0 off = SOLID
+``````Group.0 - Solid // Flag 0 on = NON SOLID / Flag 0 off = SOLID
 Group.1 - Platform
 Group.2 - No Slope Checking
 Group.3 - Layer 0
@@ -55,7 +55,7 @@ Group.Obstacles= Solid
 Group.Target - Portals
 
 Group.Generic 1 - Platform
-Group.Generic 2 - Spike Balls (Mighty)
+Group.Generic 2 - Spike Balls (Mighty)```
 
 # Math
 
