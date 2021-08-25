@@ -14,9 +14,9 @@
 
 ## Layer Switching
 
->To prevent the player to gets stuck in loopings, please keep all the objects related to layer switching with the option "Inactive if too far from window" _DISABLED_. If you ever need the posibility of creating more complex level layouts, like S3 Angel Island Loop closer to the tree, or Sandopolis loop gimmick. With this you can get a start up in it. Layer 2 makes all layers deactivate, so you need to add an extra collision system that only checks for it. Layer 3 makes all layers activate, this can by tide to a gimmick of sort, like the already mention Sandopolis Act 2 Gimmick.<
+>To prevent the player to gets stuck in loopings, please keep all the objects related to layer switching with the option "Inactive if too far from window" _DISABLED_. If you ever need the posibility of creating more complex level layouts, like S3 Angel Island Loop closer to the tree, or Sandopolis loop gimmick. With this you can get a start up in it. Layer 2 makes all layers deactivate, so you need to add an extra collision system that only checks for it. Layer 3 makes all layers activate, this can by tide to a gimmick of sort, like the already mention Sandopolis Act 2 Gimmick.
 
-# Used Groups (Qualifiers)
+## Used Groups (Qualifiers)
 
 ```
 Group.0 - Solid // Flag 0 on = NON SOLID / Flag 0 off = SOLID
@@ -67,7 +67,7 @@ Group.Generic 1 - Platform
 Group.Generic 2 - Spike Balls (Mighty)
 ```
 
-# Math
+## Math
 
 You need to compare two general values to use these formulas. 
 To get "compare two general values" condition, just click on gear icon and select the option there.
