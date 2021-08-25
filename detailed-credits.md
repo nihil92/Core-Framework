@@ -140,3 +140,11 @@
   - Monitor Debris;
   - Pinata's Particles;
 
+# Music
+
+## DJ Verstyle
+  - Bamboo Fields // Used on Test Level;
+
+## Nuclear
+  - S3D Blast Special Stage Remix // Unused on this release;
+
