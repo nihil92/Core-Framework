@@ -40,8 +40,8 @@ Duplicate a bridge spawner, edit the object width to a number multiples of 16 an
 
 ## ??
 
-#### No Land
-![image](https://user-images.githubusercontent.com/66818008/130726038-356488f6-dcec-450b-8585-1702af3dfb15.png)
+![image](https://user-images.githubusercontent.com/66818008/130726038-356488f6-dcec-450b-8585-1702af3dfb15.png) #### No Land
+
 If the player collides with this region, the angle detecting will be locked. This is useful for stairs using too short tiles, like 16x16 or sloped ledges.
 
 
