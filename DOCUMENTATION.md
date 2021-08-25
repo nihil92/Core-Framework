@@ -8,7 +8,7 @@
 
 - To make a backdrop solid, just check the object proprieties and set the Obstacle Type as "Obstacle".
 
-- If the names in global events "disappear" go to "Application Proprieties" > "Events" and check if the base frame is Test Level (or whatever you like).
+- If the names in global events "disappear" go to "Application Proprieties" > "Events" and change the base frame.
 
 # Core Framework
 
