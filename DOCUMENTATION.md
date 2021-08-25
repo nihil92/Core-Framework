@@ -8,7 +8,7 @@
 
 - To make a backdrop solid, just check the object proprieties and set the Obstacle Type as "Obstacle".
 
-# Used Groups #
+# Used Groups (Qualifiers) #
 
 ```
 Group.0 - Solid // Flag 0 on = NON SOLID / Flag 0 off = SOLID
