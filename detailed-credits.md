@@ -92,3 +92,51 @@
 
 ## Israel
   - Genesis Fade;
+
+# Art Credits
+
+## Tyson Tay
+  - Test Level Tiles;
+
+## Ainand
+  - Sign Post // Sprites and Animations;
+  - Warp Ring;
+  - Additional Slopes;
+
+## PWMan
+  - Core Framework Logo;
+  - Promo Art;
+  - Pinatas;
+
+## joshyflip
+  - Gumball Machine in Mania Style;
+
+## Troopsushi;
+  - Amy Sprites;
+
+## Nihil
+  - Titlecard.
+  - Menu art and general UI; // With a GREAT help from Angeloz;
+  - Additional slopes and decorations;
+  - Dash Pads, Teleporter Lights, Lava and Conveyor Belt ripping;
+  - The painful and arduous task of animating EVERYTHING;
+
+## Louplayer
+  - S3K Mania Monitors;
+
+## Dolphman
+  - Crusher;
+  - Pinball Flippers, 
+  - Hang Lifts;
+  - Teleporter Orbs;
+  - Splats;
+
+## Grakai
+  - Orbinaut;
+  - Moto Ant;
+  - Masher;
+
+## Yonatankr;
+  - Monitor Debris;
+  - Pinata's Particles;
+
