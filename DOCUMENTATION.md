@@ -67,39 +67,39 @@ To get "compare two general values" condition, just click on gear icon and selec
 ### Getting the distance between 2 points
 ```Abs(x1 - x2) pow 2 + abs(y1 - y2) pow 2```
 
-## Getting the distance between 2 points (Euclidean)
+### Getting the distance between 2 points (Euclidean)
 ```Sqr(((x1 - x2) + pow2) + ((y1 - y2) pow 2))```
 
-## Getting the distance between 2 points (Manhathan)
+### Getting the distance between 2 points (Manhathan)
 ```Abs(x1 - x2) + abs(y1 - y2)```
 
-## Getting the angle between 2 points
+### Getting the angle between 2 points
 ```Atan2(y2 - y1, x2 - x1)```
 
-## Getting the difference between two angles
-### If "Abs" is omitted the sign indicates the direction (clockwise or anti-clockwise)
+### Getting the difference between two angles
+If "Abs" is omitted the sign indicates the direction (clockwise or anti-clockwise)
 ```Abs((((a - b + 540) mod 360) - 180)```
 
-## Generate random numbers
+### Generate random numbers
 ```RRandom(a, b)```
 
-## Generate random numbers in the range A-B
+### Generate random numbers in the range A-B
 ```Random(b - a) + a```
 
-## Check if a number is even
-```I<Insert Number> mod 2 = 0```
+### Check if a number is even
+```<Insert Number> mod 2 = 0```
 
-## Check if a number is odd
+### Check if a number is odd
 ```<Insert Number> mod 2 = 1```
 
-## Return the sign of a number
+### Return the sign of a number
 ```<Insert Number> / Abs(<Insert Number>)```
 
-## Convert a Hex Angle
+### Convert a Hex Angle
 ```(256 - <Hex Angle>) * 1.40625```
 
-## Flashing (Nihil's)
+### Flashing (Nihil's)
 Set alpha-blending coefficient to ```((GlobalTimer("MasterLevel") / <flash cycle duration> ) mod 2) * 255```
 
-## Flashing (YohananDiamond's)
+### Flashing (YohananDiamond's)
 ```Floor(( GlobalTimer("MasterLevel")  mod <flash cycle duration> * 2) / <flash cycle duration>) * 255```
