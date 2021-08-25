@@ -50,7 +50,7 @@ Duplicate a bridge spawner, edit the object width to a number multiples of 16 an
 >Used to stop or revert direction for almost everything in the framework, like enemies and gimmicks. It's very useful as we don't need to create a sensor for each object.
 
 ### Angle Breakers
->Used to replicate the ramp launcher (that famous one after the S-tunnels on Green Hill Zone).
+>Used to replicate that ramp launchers (that ones after the S-tunnels on Green Hill Zone).
 
 ## Used Groups (Qualifiers)
 
