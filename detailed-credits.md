@@ -1,4 +1,6 @@
-@ Nihil
+# Coding
+
+## Nihil
   - Sensors;
   - Collisions and Landing; // Ceiling Landing had a hand of YD;
   - Control (Movement), Movement Routines and Physics tweaking;
@@ -38,7 +40,7 @@
   - Debug Mode // Originally made by Carlos Ushiromiya, remade by myself;
   - Audio System // Modified from Not So Simple Sonic Worlds;
 
-@ Lighto
+## Lighto
   - Control (Movement);
   - Signpost // Fixes on turning math;
   - Drop Dash // Originally made for Sonic Saga;
@@ -51,7 +53,7 @@
   - Act 2 Data Storage; // Originally made by Carlos, remade by Lighto;
   - Act 2 Camera;
 
-@ Yonatankr
+## Yonatankr
   - Angle Detecting Equation "Round(720 - Atan2 ...)";
   - Bridges // Taken from Spin Engine;
   - Swing Rope;
@@ -65,7 +67,7 @@
   - Monitors Particles;
   - Losing Rings Effect;
 
-@ YohananDiamond (YD)
+## YohananDiamond (YD)
   - Support on advanced math and physics;
   - Data Menu;
   - Rings // General fixes on rings collision;
@@ -73,20 +75,20 @@
   - Countdown Bubbles // Support on math;
   - Studiopolis Shader;
 
-@ Chopp
+## Chopp
   - 1 UP algorithm;
   - Inconsistencies on knockout math and sound were fixed;
   - Rolling and Jumping animations speed; // Based on HedgeSpin.
   - Fixes on drowning;
   - Improvements on bubbles;
 
-@ Ainand
+## Ainand
   - Input for Joypads;
   - Implemented Layer 2 and 3;
   - AIZ Ramps;
 
-@ DarkMK3
+## DarkMK3
   - Crumbling Platforms;
 
-@ Israel
+## Israel
   - Genesis Fade;
