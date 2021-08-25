@@ -26,4 +26,4 @@ https://discord.gg/hV6nbxwkE7
 
 # Documentation
 
-Soon
+Still a work in progress. It will be updated every saturday.
