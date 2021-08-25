@@ -34,6 +34,10 @@ To prevent the player to gets stuck in loopings, please keep all the objects rel
 
 Duplicate a character, edit the CharacterID value and edit entire Player Animation section. Other than this, will require _specific_ actions.
 
+## Adding bridges
+
+Duplicate a bridge spawner, edit the object width to a number multiples of 16 and the bridge will spawn the corresponding to (Width / 16).
+
 ## Used Groups (Qualifiers)
 
 ```
