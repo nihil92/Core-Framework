@@ -1,4 +1,54 @@
-# Core Engine RC 0.13.2
+**0.22.10**
+
+- Fixed pitch audio.
+- Fixed issues bettween test level and bonus stage.
+- Fixed general issues with audio system.
+- Added an event to reset values like invincibility, powershoes, trail, etc.
+- Fixed bug with saving.
+
+**0.22.09**
+
+- Some glitches related all the characters appearing at the same time on bonus stage was been fixed.
+- Fixed issue on level starting: It was starting on Bonus Stage before.
+- The devkit now contains only SDL, Studiopolis Shader and the Dark Theme made by myself.
+
+**0.22.08**
+
+- The physics code has been completely overhauled and is now accurate to Genesis. Slope acceleration during landing were redone, air drag, movement and friction too.
+- The code was entirely redone. Now all player-related variables boxes have been unified into a single object.
+- Complete revision on camera code, featuring SCD's extended camera.
+- The ring bounce code has been redone from scratch using a collision mask trick.
+- The player's collisions have been improved to prevent the player from entering walls at high speeds.
+- A whole new rotation method (much smoother than the previous one) has been implemented. We no longer depends of that Sonic Worlds' super complicated old system!
+- Now the checkpoint saves which ones were activated when the frame restarts.
+- Text Blitter for titlecards were redone.
+- The water polls were removed.
+- Fixed sensors shaking issue by removing transparent voids from sensors.
+- The hanging action bugs were fixed.
+- Improved hang lift code.
+- Removed camera limiters for bosses.
+- Revision on afterimage's code.
+- The ground sensor collision were removed, now it is only used to landing and interaction with objects.
+- The sparks from Thunder Shield no longer uses bounce ball.
+- The ramps from Angel Island Zone were remade.
+- Fixed bug where looping layer stays solid at high speeds when camera moves away from player. Set the "destroy object if too far from window" option to "NO" on layer objects.
+- The monitors were completely revised.
+- Audio System redone! Now 1-UP, volume, fade and frequency up/down work as intended.
+- A ton of minor bugs were fixed. There are so many that it would not be worth listing them all here.
+- Implemented a system to force landing on slopes that have angle detection problems. Use a slope as active with "Group.5".
+- Implemented a new parallax system with actives instead of BSB.
+- The events that load the lives you had were improved.
+- The flashing glitch during window resizing Glitch is now fixed. Each time the screen size changes, you need to run the Screen loop 4 times.
+- The blue spheres special stage was removed because it was unfinished.
+- Titlecard was been improved.
+
+**Notes**
+
+- According to Clickteam staff, there are compatibility issues using "Identical" mode for global objects. Please use ONLY "Same Name and Type" if you want your objects to be global.
+- Using "Wrap Horizontally" or "Wrap Vertically" in layer 1 can damage motobugs (it's fucking insane, but it happens).
+- Do not use "machine independent-speed". It have some optimization issues, that can make some loops sudden stop do work correctly.
+
+**0.13.2**
 
 - Fixed bugs on data menu, angle flip and static motobug.
 - Fixed black fade on Test Stage.
@@ -6,7 +56,7 @@
 - Improved Main Menu.
 - Edited Level Layout.
 
-# Core Engine RC 0.13.0
+**0.13.0**
 
 - Looking up and crouch down camera bug was been fixed.
 - Added "AllowLand = 1" as a "LAND" condition. Without fix fix, Sky Sanctuary Orb and other gimmicks can work as it was intended.
@@ -23,7 +73,7 @@
 - Named FLAGS.
 	
 
-# Core Engine RC 0.11.6
+**0.11.6**
 
 - Edited Big Rings effect to a more stylish one (take a look in the loop I included in TAKING DAMAGE and the edit I made on the sprite and the effect events itself).
 - Fixed a bug with movable spike.
@@ -31,7 +81,7 @@
 - Fixed Life's monitor icon for Amy Rose.
 
 
-# Core Engine RC 0.11.5
+**0.11.5**
 
 - When the player went into debug mode inside the tunnel and then left, the player was no longer able to fall. This has been fixed.
 - Fixed jump trough and falling platforms. Now it use also flag 2.
@@ -52,7 +102,7 @@
 - Debug was disabled by default.
 - Due to a request, I tried to port Core Engine into non-DLC Fusion, but it's not possible anymore. Only if we sacrifice global events, so copy and paste all the code into frame editor and here we go.
 
-# Core Engine RC 0.11.0
+**0.11.0**
 
 - Revised Sensors, Movement Routines and Physics (X Control and Y Control). This fixes that damn bug in which Sonic detected angle on the corners of straight platforms/backdrops and that bug what makes Sonic stops in a 60/300º slope. The max land angle what the engine can reach is 78/282º (the original one reaches to ~80/280º -- Approximate value). It also fixes a weird bug collision on Swing Platforms.
 - Fixed bugs in Mighty's Hammer Drop and Ray's Glide.
@@ -63,13 +113,13 @@
 - Limited save slots to 10 instead of 100. To change this, simply change the X Dimension of the array responsible to save the progress.
 - Increased input support, adding options for PS4 and Xbox One controller -- was added by Ainand. 
 
-# Core Engine RC 0.9.5
+**0.9.5**
 
 - Fixed landing bug.
 - Fixed stuck in the slope bug -- Thanks for Israel!
 
 
-# Core Engine RC 0.9.4
+**0.9.4**
 
 - All the shaders was been removed.
 - Added fireball thrower gimmick.
