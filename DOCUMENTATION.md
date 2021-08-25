@@ -93,7 +93,7 @@ random(b - a) + a
 
 
 # Return the sign of a number #
-<Number> / Abs(<Number>)
+Number / Abs(Number)
 
 
 # Convert a Hex Angle #
