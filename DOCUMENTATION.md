@@ -57,22 +57,22 @@ Group.Target - Portals
 Group.Generic 1 - Platform
 Group.Generic 2 - Spike Balls (Mighty)
 
-# Math #
+# Math
 
 You need to compare two general values to use these formulas. 
 To get "compare two general values" condition, just click on gear icon and select the option there.
 
-# Getting the distance between 2 points #
-abs(x1 - x2) pow 2 + abs(y1 - y2) pow 2
+## Getting the distance between 2 points
+> abs(x1 - x2) pow 2 + abs(y1 - y2) pow 2
 
-# Getting the distance between 2 points (Euclidean) #
-sqr(((x1 - x2) + pow2) + ((y1 - y2) pow 2))
+## Getting the distance between 2 points (Euclidean)
+> sqr(((x1 - x2) + pow2) + ((y1 - y2) pow 2))
 
-# Getting the distance between 2 points (Manhathan) #
-abs(x1 - x2) + abs(y1 - y2)
+## Getting the distance between 2 points (Manhathan)
+> abs(x1 - x2) + abs(y1 - y2)
 
-# Getting the angle between 2 points #
-atan2(y2 - y1, x2 - x1)
+## Getting the angle between 2 points
+> atan2(y2 - y1, x2 - x1)
 
 # Getting the difference between two angles #
 If "abs" is omitted the sign indicates the direction (clockwise or anti-clockwise)
