@@ -1,0 +1,58 @@
+# Used Groups (Qualifiers)
+
+---------------------------------------------
+
+Group.0 - Solid // Flag 0 on = NON SOLID / Flag 0 off = SOLID
+Group.1 - Platform
+Group.2 - No Slope Checking
+Group.3 - Layer 0
+Group.4 - Layer 1
+Group.5 - Special Slopes (for when it have issue to check angle)
+Group.6 - Moving Platform
+Group.7 - Pushable
+Group.8 - Crushable
+Group.9 - Attach Objects
+
+---------------------------------------------
+
+Group.Data - Pausable (to stop the animations during the pause).
+Group.Player - Skins
+Group.Friends - Sensors
+Group.Enemy - Badniks
+Group.Arm - Hurtable Object
+Group.Bullet - Bullet
+Group.Shield - Global Stop
+Group.Ball - Bumpers
+Group.Invisible - Breaking Platforms
+Group.Powerup - Monitors
+
+---------------------------------------------
+
+Group.Drawning Tools - Bridges
+Group.Neutral - Swing (Spawner)
+Group.Good - Swing (Main Object)
+Group.Engine - Remove objects outside the frame
+Group.Flowers - Swing Ropes
+Group.Reference Points - Invincible Stars
+
+---------------------------------------------
+
+Group.Movable - Conveyor Belts
+Group.Value Holder - Corkscrews
+Group.Dissolving - Falling Platforms
+Group.Waveform - Fans
+Group.Particles - Bubbles
+Group.Bosses - ...Bosses
+Group.Arrows - Hanging Bars
+Group.Clothes - Capsule
+Group.Explosions - Explosions
+Group.Keys - Switches
+Group.Doors - Doors
+Group.Obstacles= Solid 
+(for when you want a Group.0 object to collide with another solid surface).
+Group.Target - Portals
+
+---------------------------------------------
+
+Group.Generic 1 - Platform
+Group.Generic 2 - Spike Balls (for Mighty)
