@@ -85,14 +85,14 @@ Abs((((a - b + 540) mod 360) - 180)
 > Random(b - a) + a
 
 ## Check if a number is even
-> Number mod 2 = 0
+> **Number** mod 2 = 0
 
 ## Check if a number is odd
-> <Number> mod 2 = 1
+> **Number** mod 2 = 1
 
 
 # Return the sign of a number #
-Number / Abs(Number)
+``**Number** / Abs(**Number**)``
 
 
 # Convert a Hex Angle #
