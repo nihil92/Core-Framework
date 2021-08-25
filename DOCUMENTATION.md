@@ -81,27 +81,25 @@ To get "compare two general values" condition, just click on gear icon and selec
 ```Abs((((a - b + 540) mod 360) - 180)```
 
 ## Generate random numbers
-> RRandom(a, b)
+```RRandom(a, b)```
 
 ## Generate random numbers in the range A-B
-> Random(b - a) + a
+```Random(b - a) + a```
 
 ## Check if a number is even
-> **Number** mod 2 = 0
+```**Number** mod 2 = 0```
 
 ## Check if a number is odd
-> **Number** mod 2 = 1
+```**Number** mod 2 = 1```
 
+## Return the sign of a number
+```**Number** / Abs(**Number**)```
 
-# Return the sign of a number #
-``**Number** / Abs(**Number**)``
+## Convert a Hex Angle
+```(256 - hex angle) * 1.40625```
 
+## Flashing (Nihil's)
+Set alpha-blending coefficient to ```((GlobalTimer("MasterLevel") / <flash cycle duration> ) mod 2) * 255```
 
-# Convert a Hex Angle #
-(256 - hex angle) * 1.40625
-
-# Flashing (Nihil's) #
-Set alpha-blending coefficient to ((GlobalTimer("MasterLevel") / <flash cycle duration> ) mod 2) * 255
-
-# Flashing (YohananDiamond's) #
-Floor(( GlobalTimer("MasterLevel")  mod <flash cycle duration> * 2) / <flash cycle duration>) * 255
+## Flashing (YohananDiamond's)
+```Floor(( GlobalTimer("MasterLevel")  mod <flash cycle duration> * 2) / <flash cycle duration>) * 255```
