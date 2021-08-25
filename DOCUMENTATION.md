@@ -64,7 +64,7 @@ Group.Generic 2 - Spike Balls (Mighty)
 You need to compare two general values to use these formulas. 
 To get "compare two general values" condition, just click on gear icon and select the option there.
 
-## Getting the distance between 2 points
+### Getting the distance between 2 points
 ```Abs(x1 - x2) pow 2 + abs(y1 - y2) pow 2```
 
 ## Getting the distance between 2 points (Euclidean)
