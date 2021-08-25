@@ -77,6 +77,7 @@ To get "compare two general values" condition, just click on gear icon and selec
 ```Atan2(y2 - y1, x2 - x1)```
 
 ### Getting the difference between two angles
+
 If "Abs" is omitted the sign indicates the direction (clockwise or anti-clockwise)
 ```Abs((((a - b + 540) mod 360) - 180)```
 
