@@ -1,3 +1,5 @@
+This changelog is all after Core Framework Plus release.
+
 **0.22.10**
 
 - Fixed pitch audio.
@@ -100,11 +102,11 @@
 - Fixed interaction of Mighty with spikes.
 - Fixed capsule collision.
 - Debug was disabled by default.
-- Due to a request, I tried to port Core Engine into non-DLC Fusion, but it's not possible anymore. Only if we sacrifice global events, so copy and paste all the code into frame editor and here we go.
+- Due to a request, I tried to port Core framework into non-DLC Fusion, but it's not possible anymore. Only if we sacrifice global events, so copy and paste all the code into frame editor and here we go.
 
 **0.11.0**
 
-- Revised Sensors, Movement Routines and Physics (X Control and Y Control). This fixes that damn bug in which Sonic detected angle on the corners of straight platforms/backdrops and that bug what makes Sonic stops in a 60/300º slope. The max land angle what the engine can reach is 78/282º (the original one reaches to ~80/280º -- Approximate value). It also fixes a weird bug collision on Swing Platforms.
+- Revised Sensors, Movement Routines and Physics (X Control and Y Control). This fixes that damn bug in which Sonic detected angle on the corners of straight platforms/backdrops and that bug what makes Sonic stops in a 60/300º slope. The max land angle what the framework can reach is 78/282º (the original one reaches to ~80/280º -- Approximate value). It also fixes a weird bug collision on Swing Platforms.
 - Fixed bugs in Mighty's Hammer Drop and Ray's Glide.
 - Fixed Knuckles gliding and revised fall/land. Now Knuckles can do spindash after the fall/land after glide, as it was intended to do.
 - Fixed lives issue. Now it load the lives you was before, instead of erase everything and put 3.
@@ -187,3 +189,5 @@
 - Sky Sactuary Teleporter and Hang Lift was been added. We don't use exactly the same method as Worlds, so it's a redone from scratch.
 - Amy Rose was been added.
 - Added a brand new scale effect and optimizations for P3D spike ball.
+
+
