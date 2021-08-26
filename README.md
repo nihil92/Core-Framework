@@ -18,7 +18,7 @@ Some things that naturally worked great were ported from Sonic Worlds Delta, lik
 
 # Requirements
 
-You need to purchase a legit **Clickteam Fusion 2.5+** copy to use it. Make sure to install the most recent version of [**SDL**](https://github.com/SortaCore/SDLJoystick-priv) and the Studiopolis shader to make this works.
+You need to purchase a legit [**Clickteam Fusion 2.5+**](https://store.steampowered.com/app/1056780/Clickteam_Fusion_25_Addon/) copy to use it. Make sure to install the most recent version of [**SDL**](https://github.com/SortaCore/SDLJoystick-priv) and the Studiopolis shader to make this works.
 
 # Discord Server
 
