@@ -10,6 +10,8 @@
 
 - If the names in global events "disappear" go to "Application Proprieties" > "Events" and change the base frame.
 
+- You can use search tool pressing CTRL+SHIFT+F.
+
 # Core Framework
 
 ## Audio System
