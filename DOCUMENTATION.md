@@ -150,3 +150,6 @@ To get "compare two general values" condition, just click on gear icon and selec
 
 ### Flashing (YohananDiamond's)
 ```Set alpha-blending coefficient to Floor(( GlobalTimer("MasterLevel")  mod <flash cycle duration> * 2) / <flash cycle duration>) * 255```
+
+### Lerp
+```<x>*(1-<a>) + <y> * <a>```
