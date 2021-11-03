@@ -24,9 +24,12 @@ The loop points are measured exactly like normal music. But it can be confusing 
 
 ## Parallax System
 
-In order to remove Sonic Worlds' limited parallax system, Lighto and me decided to work on a completely new system. In addition to allowing animations without the need for a workaround, it is considerably lighter than using the Background System Box. Also, it uses logic and math, rather than extensions. However, it can be tricky to use without understanding how the new system works. Remember it's a new system, with different math. Therefore, you cannot use the same values that you used in Worlds parallaxes. You need to set different values.
+In order to remove Sonic Worlds' limited parallax system, Lighto and me decided to work on a completely new system. In addition to allowing animations without the need for a workaround, it offers a better performance than using the Background System Box, built-in layers system or extensions. However, it can be tricky to use without understanding how the new system works first. Since this is a new system with different math, you cannot use the same values that you used in Worlds parallaxes. So you need to set different values.
 
 It is important that you keep all the pieces in the top-left hotspot (0,0) and make sure all of them have the same height (e.g if you have a piece with 840 of height, make all the others have the same size). Then, we run one for each loops in order to create copies of the parallax actives that are already in the frame. Then, we give each object it's respective ID later. All you need to do is edit the offset or velocity variables according to your choice (check frame editor). Everything bellow is automatically calculated and should be kept in global events. When you need to customize something, go to frame editor and check there!
+
+You need to make sure the starting image of each piece is the size you want. If the INITIAL image size is different from the CURRENT image size, the part will be calculated as if it had the INITIAL size! So if your image is 500x500 at the start and then change to 424x240 the calculation will be done based on the size of 500x500. The same can be said for images with different sizes between the appearing and stopped animations. Therefore, the system will ALWAYS detect the size that is appearing.
+
 
 ## Layer Switching
 
