@@ -32,6 +32,8 @@ First of all, keep in mind that all the pieces should have **at least** 424x240 
 
 Furthermore, you need to make sure the starting image of each piece is the size you want. If the INITIAL image size is different from the CURRENT image size, the part will be calculated as if it had the INITIAL size! So if your image is 500x500 at the start and then change to 424x240 the calculation will be done based on the size of 500x500. The same can be said for images with different sizes between the appearing and stopped animations. Therefore, the system will ALWAYS detect the size that is appearing.
 
+Recently, a system to facilitate the ordering of parallaxes was implemented. All you need to do is edit the "SubLayer" value to the desired value, considering that the higher the number, the further forward it will be.
+
 
 ## Layer Switching
 
