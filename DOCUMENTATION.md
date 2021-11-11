@@ -24,9 +24,11 @@ The loop points are measured exactly like normal music. But it can be confusing 
 
 ## Parallax System
 
-In order to remove Sonic Worlds' limited parallax system, me, Lighto and Y.D decided to work on a completely new system. In addition to allowing animated parallaxes without the need for a workaround, it offers a better performance than using the Background System Box, built-in layers system or extensions. However, it can be tricky to use without understanding how the new system works first. Since this is a new system with different math, you cannot use the same values that you used in Worlds parallaxes. So you need to set different values.
+#### INTRODUCTION
 
-#### Basic usage
+As a alternative for the parallax system from Sonic Worlds, we decided to work on a completely new system, built from the ground up. In addition to allowing easily animated parallaxes, it offers an better performance than using Background System Box, built-in layers system or through the Layer Object extension. However, it can be tricky to use without understanding how this system works first.
+
+#### BASIC USAGE
 
 First of all, keep in mind that all the pieces should have at least the window size (in our case it's 424x240, but it could be any size you use as window size). Then, it is important that you keep all the pieces in the top-left hotspot (0,0) and make sure all of the pieces have the same size (e.g if you have a piece with 640x480 of size, make all the others have the same size). To generate another parallax, simply duplicate a parallax piece using right click, so that the generated active keeps the variable names and their group.
 
