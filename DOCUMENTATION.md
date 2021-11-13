@@ -32,10 +32,6 @@ As a alternative for the parallax system from Sonic Worlds, we decided to work o
 
 First, keep in mind that you can use whatever size you like, as long as all the pieces are at least the size of the window. If your game uses 424x240, all pieces must be at least this size. This is necessary, as gaps between one part and another can become visible if they are smaller than the size of the window. Furthermore, it is important that you keep all the pieces to the top left hotspot (0,0). To generate a new parallax piece, simply clone a parallax piece by right-clicking on a parallax piece and accessing the "clone" option. This ensures that all parts maintain their properties correctly.
 
-Furthermore, you need to make sure the starting image of each piece is the size you want. If the INITIAL image size is different from the CURRENT image size, the part will be calculated as if it had the INITIAL size! So if your image is 500x500 at the start and then change to 424x240 the calculation will be done based on the size of 500x500. The same can be said for images with different sizes between the appearing and stopped animations. Therefore, the system will ALWAYS detect the size that is appearing.
-
-If you don't want parallax to loop, just set the Offset value to 0.
-
 The system is fully automated, so you don't need to mess around with math for each piece to move. All you need to do is edit the Offset or Scroll values to the desired values. Recently, a system to facilitate the ordering of parallaxes was implemented. All you need to do is edit the "SubLayer" value to the desired value, considering that the higher the number, the further forward it will be.
 
 ## Layer Switching
