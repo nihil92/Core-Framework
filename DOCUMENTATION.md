@@ -30,7 +30,7 @@ As a alternative for the parallax system from Sonic Worlds, we decided to work o
 
 #### BASIC USAGE
 
-First of all, keep in mind that all the pieces should have at least the window size (in our case it's 424x240, but it could be any size you use as window size). Then, it is important that you keep all the pieces in the top-left hotspot (0,0) and make sure all of the pieces have the same size (e.g if you have a piece with 640x480 of size, make all the others have the same size). To generate another parallax, simply duplicate a parallax piece using right click, so that the generated active keeps the variable names and their group.
+First, keep in mind that you can use whatever size you like, as long as all the pieces are at least the size of the window. If your game uses 424x240, all pieces must be at least this size. This is necessary, as gaps between one part and another can become visible if they are smaller than the size of the window. Furthermore, it is important that you keep all the pieces to the top left hotspot (0,0). To generate a new parallax piece, simply clone a parallax piece by right-clicking on a parallax piece and accessing the "clone" option. This ensures that all parts maintain their properties correctly.
 
 Furthermore, you need to make sure the starting image of each piece is the size you want. If the INITIAL image size is different from the CURRENT image size, the part will be calculated as if it had the INITIAL size! So if your image is 500x500 at the start and then change to 424x240 the calculation will be done based on the size of 500x500. The same can be said for images with different sizes between the appearing and stopped animations. Therefore, the system will ALWAYS detect the size that is appearing.
 
