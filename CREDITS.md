@@ -20,7 +20,7 @@
   - Falling Platforms;
   - Swing Objects;
   - Monitors // Y.D. helped with the collisions;
-  - Active Parallax System // Cloning pieces method;
+  - Active Parallax System;
   - Shields, Score Combos and Animals Behavior;
   - Bumpers and Pinball Flippers;
   - Conveyor Belts;
@@ -44,7 +44,7 @@
   - Control (Movement);
   - Signpost // Fixes on turning math;
   - Drop Dash // Originally made for Sonic Saga;
-  - Active Parallax System // main calculations;
+  - Active Parallax System // most of the math;
   - Combine Rings // Adjustments on scale effect;
   - Ray's Gliding // Modified from Yonatankr's code;
   - Dynamic Audio // That waterfall ones;
