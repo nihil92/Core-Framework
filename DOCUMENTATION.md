@@ -1,3 +1,5 @@
+This documentation is valid for version 0.23.02.
+
 # General Tips
 
 - To close all the codes group, go to "Events" > "Close all groups".
