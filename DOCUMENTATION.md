@@ -2,7 +2,7 @@ This documentation is valid for version 0.23.02.
 
 # General Tips
 
-- To close all the codes group, go to "Events" > "Close all groups".
+- To close all the codes group, go to {_Events > Close all groups_}.
 
 - To increase the free space outside the frame, simply access "Tools" > "Proprieties" > "Frame Editor" and edit the "Margins" as you like.
 
@@ -18,7 +18,7 @@ This documentation is valid for version 0.23.02.
 
 ## Customization options by level 
 
-We can set different options for each level. Whether there will have water or not, the type of goal or whether the level in question is an act 1 or 2, etc. To make it easier, we've created a group located at {_Frame Editor/Level Unique/Custom Level_}. Just edit the options you want.
+We can set different options for each level. Whether there will have water or not, the type of goal or whether the level in question is an act 1 or 2, etc. To make it easier, we've created a group located at {_Frame Editor > Level Unique > Custom Level_}. Just edit the options you want.
 
 ## Audio System
 
