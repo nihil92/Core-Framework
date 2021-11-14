@@ -2,15 +2,15 @@ This documentation is valid for version 0.23.02.
 
 # General Tips
 
-- To close all the codes group, go to {_Events > Close all groups_}.
+- To close all the codes group, go to _Events > Close all groups_.
 
-- To increase the free space outside the frame, simply access "Tools" > "Proprieties" > "Frame Editor" and edit the "Margins" as you like.
+- To increase the free space outside the frame, simply access _Tools > Proprieties > Frame Editor_ and edit the "Margins" as you like.
 
-- If you want to see a object in event editor by icon, name or both, simply go to "Tools" > "Proprieties" > "Event List Editor" and check the flags as you like.
+- If you want to see a object in event editor by icon, name or both, simply go to _Tools > Proprieties > Event List Editor_ and check the flags as you like.
 
 - To make a backdrop solid, just check the object proprieties and set the Obstacle Type as "Obstacle".
 
-- If the names in global events "disappear" go to "Application Proprieties" > "Events" and change the base frame.
+- If the names in global events "disappear" go to _Application Proprieties > Events_ and change the base frame.
 
 - You can use search tool pressing CTRL+SHIFT+F.
 
@@ -18,7 +18,7 @@ This documentation is valid for version 0.23.02.
 
 ## Customization options by level 
 
-We can set different options for each level. Whether there will have water or not, the type of goal or whether the level in question is an act 1 or 2, etc. To make it easier, we've created a group located at {_Frame Editor > Level Unique > Custom Level_}. Just edit the options you want.
+We can set different options for each level. Whether there will have water or not, the type of goal or whether the level in question is an act 1 or 2, etc. To make it easier, we've created a group located at _Frame Editor > Level Unique > Custom Level_. Just edit the options you want.
 
 ## Audio System
 
