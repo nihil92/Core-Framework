@@ -14,6 +14,10 @@
 
 # Core Framework
 
+## Customization options by level 
+
+We can set different options for each level. Whether there will have water or not, the type of goal or whether the level in question is an act 1 or 2, etc. To make it easier, we've created a group located at {_Frame Editor/Level Unique/Custom Level_}. Just edit the options you want.
+
 ## Audio System
 
 ### Music Loop
