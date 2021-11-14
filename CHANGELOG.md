@@ -1,6 +1,6 @@
 This changelog is all after Core Framework Plus release.
 
-## _ 0.22.10
+**0.22.10**
 
 - Fixed pitch audio.
 - Fixed issues bettween test level and bonus stage.
