@@ -1,5 +1,20 @@
 This changelog is all after Core Framework Plus release.
 
+**0.22.11**
+
+- Improved parallax system and added alot of significant documentation about it.
+- To avoid confusion, we moved parallax and bubble numbers code groups into Frame Editor code, instead of Global.
+- An better system for ring panning were implemented.
+- **Control** and **Movement** code groups were optimised.
+- Removed unecessary stuff on **Sensors** code group.
+- Moved Angle Breakers into **Tools** code group.
+- Thinking about beginners, we added an brand active to control the boss' camera. I know it sucked to remove, but now we have a much better system that only uses one active.
+- Fixed top collision.
+- Added Water Mark. So now you can set the water level again using a active.
+- Updated Fling Ramps (graphics by joshyflip).
+- Updated Bonus Stage frame.
+- Fixed underwater bug.
+
 **0.22.10**
 
 - Fixed pitch audio.
