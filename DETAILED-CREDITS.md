@@ -110,6 +110,7 @@
 
 ## joshyflip
   - Gumball Machine in Mania Style;
+  - AIZ ramps;
 
 ## Troopsushi;
   - Amy Sprites;
