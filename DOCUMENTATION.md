@@ -1,6 +1,8 @@
 This documentation is valid for version 0.23.02.
 
-# INTRODUCTION
+# Core Framework Guidelines
+
+# 1. INTRODUCTION
 
 For get started, it is necessary to mention that it is recommended that you have some previous knowledge about Clickteam Fusion to use Core without any issue.
 
@@ -14,7 +16,7 @@ For get started, it is necessary to mention that it is recommended that you have
 - Object Scoping;
 - Expressions;
 
-# General Tips
+## 1.1. General Tips
 
 - To close all the codes group, go to _Events > Close all groups_.
 
@@ -54,9 +56,7 @@ This shader was ordered from a Clickteam staff member so that we have an optimiz
 
 There are, however, some shader limitations depending on which DirectX you use. DX9 is limited to 32 colors and works with alpha blend and semi-transparency, while DX11 is limited to 256 and does not work alpha blend and semi-transparency. For that, it was necessary to include an ``alpha`` parameter. If your application runs in DX11, use the parameter instead of blend coefficient **in the object that used the effect**. You can still use alpha/blend coef and semi-transparency in your application, as long as the object that uses the shader uses the parameter.
 
-# Core Framework
-
-## Customization options by level 
+# Customization options by level 
 
 We can set different options for each level. Whether there will have water or not, the type of goal or whether the level in question is an act 1 or 2, etc. To make it easier, we've created a group located at _Frame Editor > Level Unique > Custom Level_. Just edit the options you want.
 
