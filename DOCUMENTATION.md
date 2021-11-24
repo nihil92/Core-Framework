@@ -17,7 +17,7 @@ This documentation is valid for version 0.23.02.
 
 ## Shaders
 
-Shaders are very useful tools for manipulating images. Using a shader lets you take advantage of the processing power of the GPU instead of the system CPU. As the shaders run on the graphics card itself, this means they are extremely fast to process, freeing up valuable CPU cycles for running the game. For example, in the past, we used the built-in Replace Color tool. But this was such a bad tool in terms of performance, that the screen would freeze for a few seconds before the level started to swap the colors. As we don't use this technique, the game changes colors instantly. In Clickteam Fusion, shaders are called **"effects"**.
+Shaders are very useful tools for manipulating images. Using a shader lets you take advantage of the processing power of the GPU instead of the system CPU. As the shaders run on the graphics card itself, this means they are extremely fast to process, freeing up valuable CPU cycles for running the game. For example, in the past, we used the built-in Replace Color tool. But this was such a bad tool in terms of performance, that the screen would freeze for a few seconds before the level started to swap the colors. As we don't use this technique anymore, the game changes colors instantly. In Clickteam Fusion, shaders are called **"effects"**.
 
 
 ### How to select a effect
@@ -27,6 +27,11 @@ Just go to the object's properties and select the effect you like. Clickteam Fus
 ### How to install a effect
 
 Just extract the contents of the desired shader to the "Effects" folder contained in the main Clickteam Fusion directory. It is recommended that you install the effect before opening Clickteam Fusion. This will prevent some error messages in the location of the effect. But you can always "ignore" the warning message and remove the effect if you don't have the required effect.
+
+#### Included Effects
+
+#### Replace Color Smoothly 
+
 
 # Core Framework
 
