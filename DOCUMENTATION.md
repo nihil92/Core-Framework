@@ -8,7 +8,7 @@ For get started, it is necessary to mention that it is recommended that you have
 - Alterable Values, Alterable Strings and Flags;
 - Arrays;
 - Layer Object;
-- Shaders Basic;
+- Shaders Basics;
 - Fast loops and for each loops;
 - Groups/Qualifiers;
 - Object Scoping;
