@@ -36,7 +36,7 @@ Just extract the contents of the desired shader to the "Effects" folder containe
 
 ### Replace Color Smoothly
 
-This effect is used to switch from an **"original palette"** to a **"target palette"**. This can be done instantly or smoothly. You can also make the shader switch between palettes, just set the EffectParam ``"lerpVal"`` to ``abs(sin(timer / <desired value>))``
+This effect is used to switch from an **"original palette"** to a **"target palette"**. This can be done instantly setting the ``"lerpVal"`` parameter to 1.0. You can also alternate two palettes, just setting the EffectParam ``"lerpVal"`` to ``abs(sin(timer / <desired value>))`` or use something like ``Max(EffectParam( "Your Object") + <desired value>, 1.0)`` to make a smooth transition between the **original palette** and the **target palette**.
 
 
 Change a palette to another. DX9 limited to 32 colors, DX11 limited to 256 colors. Both requires a texture with 256x1 pixels. It doesn't play well with Blend Coef (Alpha Coef) on DX11 premultiplied, use the parameter instead. Missing colors will not be changed.
