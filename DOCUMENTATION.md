@@ -1,6 +1,6 @@
 This documentation is valid for version 0.23.02.
 
-# Core Framework Guidelines
+# Core Framework 
 
 # 1. INTRODUCTION
 
