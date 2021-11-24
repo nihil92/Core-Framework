@@ -165,3 +165,9 @@ To get "compare two general values" condition, just click on gear icon and selec
 
 ### Lerp
 ```<x>*(1-<a>) + <y> * <a>```
+
+## Shaders
+
+Pixel shaders, also known as fragment shaders, compute color and other attributes of each "fragment": a unit of rendering work affecting at most a single output pixel. The simplest kinds of pixel shaders output one screen pixel as a color value; more complex shaders with multiple inputs/outputs are also possible. Pixel shaders range from simply always outputting the same color, to applying a lighting value, to doing bump mapping, shadows, specular highlights, translucency and other phenomena.
+
+### How to install a shader
