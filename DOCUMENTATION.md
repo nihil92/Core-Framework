@@ -2,7 +2,7 @@ This documentation is valid for version 0.23.02.
 
 # Core Framework 
 
-# 1. INTRODUCTION
+# INTRODUCTION
 
 For get started, it is necessary to mention that it is recommended that you have some previous knowledge about Clickteam Fusion to use Core without any issue.
 
@@ -16,7 +16,7 @@ For get started, it is necessary to mention that it is recommended that you have
 - Object Scoping;
 - Expressions;
 
-## 1.1. General Tips
+## General Tips
 
 - To close all the codes group, go to _Events > Close all groups_.
 
@@ -31,7 +31,7 @@ For get started, it is necessary to mention that it is recommended that you have
 - You can use search tool pressing CTRL+SHIFT+F.
 
 
-# Shaders
+# SHADERS
 
 Shaders are very useful tools for manipulating images. Using a shader lets you take advantage of the processing power of the GPU instead of the system CPU. As the shaders run on the graphics card itself, this means they are extremely fast to process, freeing up valuable CPU cycles for running the game. For example, in the past, we used the built-in Replace Color tool. But this was such a bad tool in terms of performance, that the screen would freeze for a few seconds before the level started to swap the colors. As we don't use this technique anymore, the game changes colors instantly. In Clickteam Fusion, shaders are called **"effects"**.
 
@@ -56,13 +56,13 @@ This shader was ordered from a Clickteam staff member so that we have an optimiz
 
 There are, however, some shader limitations depending on which DirectX you use. DX9 is limited to 32 colors and works with alpha blend and semi-transparency, while DX11 is limited to 256 and does not work alpha blend and semi-transparency. For that, it was necessary to include an ``alpha`` parameter. If your application runs in DX11, use the parameter instead of blend coefficient **in the object that used the effect**. You can still use alpha/blend coef and semi-transparency in your application, as long as the object that uses the shader uses the parameter.
 
-# Customization options by level 
+# CUSTOMIZATION OPTIONS PER LEVEL
 
 We can set different options for each level. Whether there will have water or not, the type of goal or whether the level in question is an act 1 or 2, etc. To make it easier, we've created a group located at _Frame Editor > Level Unique > Custom Level_. Just edit the options you want.
 
-## Audio System
+# AUDIO SYSTEM
 
-### Music Loop
+## Music Loop
 
 To use the loop system, simply set the values of LoopEnd and LoopStart to the correct number values for the loop point. 
 
