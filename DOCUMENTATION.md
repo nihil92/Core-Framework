@@ -17,7 +17,7 @@ This documentation is valid for version 0.23.02.
 
 ## Shaders
 
-Shaders are very useful tools for manipulating images. Using a shader lets you take advantage of the processing power of the GPU instead of relying solely on the system CPU. As the shaders run on the graphics card itself, this means they are extremely fast to process, freeing up valuable CPU cycles for running the game. For example, in the past, we used the built-in Replace Color tool. But this was such a bad tool in terms of performance, that the screen would freeze for a few seconds before the level started to swap the colors. As we don't use this technique, the game changes colors instantly. In Clickteam Fusion, shaders are called **"effects"**.
+Shaders are very useful tools for manipulating images. Using a shader lets you take advantage of the processing power of the GPU instead of the system CPU. As the shaders run on the graphics card itself, this means they are extremely fast to process, freeing up valuable CPU cycles for running the game. For example, in the past, we used the built-in Replace Color tool. But this was such a bad tool in terms of performance, that the screen would freeze for a few seconds before the level started to swap the colors. As we don't use this technique, the game changes colors instantly. In Clickteam Fusion, shaders are called **"effects"**.
 
 
 ### How to select a effect
