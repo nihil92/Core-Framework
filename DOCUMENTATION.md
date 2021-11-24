@@ -30,9 +30,9 @@ Just extract the contents of the desired shader to the "Effects" folder containe
 
 ### Included Effects
 
-- Replace Color Smoothly (DX9 and DX11);
-- Dynamic Color Replacer (DX9 and DX11);
-- Studiopolis Glass (DX9 and DX11);
+- Replace Color Smoothly (DX9 and DX11)
+- Dynamic Color Replacer (DX9 and DX11)
+- Studiopolis Glass (DX9 and DX11)
 
 
 # Core Framework
