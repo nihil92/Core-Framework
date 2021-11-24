@@ -14,6 +14,13 @@ This documentation is valid for version 0.23.02.
 
 - You can use search tool pressing CTRL+SHIFT+F.
 
+
+## Shaders
+
+Shaders are very useful tools for manipulating images. Using a shader lets you take advantage of the processing power of the GPU instead of relying solely on the system CPU. As these small programs run on the graphics card itself, this means they are extremely fast to process, freeing up valuable CPU cycles for running the game. For example, in the past, we used the built-in Replace Color tool. But this was such a bad tool in terms of performance, that the screen would freeze for a few seconds before the level started to swap the colors. As we don't use this technique, the game changes colors instantly.
+
+### How to install a shader
+
 # Core Framework
 
 ## Customization options by level 
@@ -165,9 +172,3 @@ To get "compare two general values" condition, just click on gear icon and selec
 
 ### Lerp
 ```<x>*(1-<a>) + <y> * <a>```
-
-## Shaders
-
-Pixel shaders, also known as fragment shaders, compute color and other attributes of each "fragment": a unit of rendering work affecting at most a single output pixel. The simplest kinds of pixel shaders output one screen pixel as a color value; more complex shaders with multiple inputs/outputs are also possible. Pixel shaders range from simply always outputting the same color, to applying a lighting value, to doing bump mapping, shadows, specular highlights, translucency and other phenomena.
-
-### How to install a shader
