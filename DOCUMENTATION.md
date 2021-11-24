@@ -28,9 +28,11 @@ Just go to the object's properties and select the effect you like. Clickteam Fus
 
 Just extract the contents of the desired shader to the "Effects" folder contained in the main Clickteam Fusion directory. It is recommended that you install the effect before opening Clickteam Fusion. This will prevent some error messages in the location of the effect. But you can always "ignore" the warning message and remove the effect if you don't have the required effect.
 
-#### Included Effects
+### Included Effects
 
-#### Replace Color Smoothly 
+- Replace Color Smoothly (DX9 and DX11);
+- Dynamic Color Replacer (DX9 and DX11);
+- Studiopolis Glass (DX9 and DX11);
 
 
 # Core Framework
