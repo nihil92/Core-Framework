@@ -1,5 +1,19 @@
 This documentation is valid for version 0.23.02.
 
+# INTRODUCTION
+
+For get started, it is necessary to mention that it is recommended that you have some previous knowledge about Clickteam Fusion to use Core without any issue.
+
+- Clickteam Fusion features and synthax;
+- Alterable Values, Alterable Strings and Flags;
+- Arrays;
+- Layer Object;
+- Shaders Basic;
+- Fast loops and for each loops;
+- Groups/Qualifiers;
+- Object Scoping;
+- Expressions;
+
 # General Tips
 
 - To close all the codes group, go to _Events > Close all groups_.
