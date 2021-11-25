@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/66818008/143420801-882b1d25-4b1c-4747-aa88-2b760a6243d1.png)
 
+![image](https://user-images.githubusercontent.com/66818008/143420945-0be3888e-573f-45be-b34f-399f30e1d252.png)
+
 
 Core is a open-source Sonic framework for _Clickteam Fusion 2.5+_ written through Sonic Worlds, created by [**Nihil**](https://github.com/nihil92/) in association with Tyson Tay, Lighto, Ainand, YohananDiamond, Chopp, Yonatankr, Dark, Joshyflip, Carlos Ushiromiya, Dolphman, Yolkin, Troopsushi, Angeloz, Jeloboi and Nuclear.
 
