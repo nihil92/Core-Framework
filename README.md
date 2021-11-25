@@ -9,15 +9,16 @@ This is a non-profit project made for learning purposes. We do not intend to inf
 
 # Features
 
-We rewrote Sonic Worlds with significant changes to the core, such as improvements to the collision system, sensors, angle detection, visual angle calculation, landing, ceiling landing and physics.
 
-The base 360 Platform Movement and physics is already finished. The codes were built to be more economical, saving performance and making it easier for users to understand. An extensive internal documentation was been written.
+Core was a modified version of Sonic Worlds, but we decided to rewrite it as of version 0.23.0 with significant changes, such as improvements to the collision system, sensors, angle detection, visual angle calculation, landing, ceiling landing and physics.
 
-Talking about the base, we keep some things from the original base, such as _some_ parts of the movement routine and the actions system using group activation/deactivation, but everything with some rewritting and/or improvements (e.g. the actions which were all rewritten, keeping only the way they are activated and deactivated).
+The base 360 Platform Movement and physics is already finished. The codes were built to be more economical and saving performance. We keep some things from the original base, such as some parts of the movement routine and the actions system using group activation/deactivation, but everything with some rewritting and/or improvements (e.g. the actions which were all rewritten, keeping only the way they are activated and deactivated).
 
-Other important parts like rings, camera, sensors, physics, collision, landing, rotation and angle detection, have been completely our own. It has support for SDL Joystick, volume control, display options, save system. It also contains alot of gimmicks, items and features to you build your fangame with the most higher standards.
+It has support for SDL Joystick, volume control, display options, save system. It also contains alot of gimmicks, items and features to you build your fangame with the most higher standards.
 
 Some things that naturally worked great were ported from Sonic Worlds Delta, like tunnels, screw, corkscrew and breakable floor in with slight adaptations, but everything else was rewritten by us.
+
+Detailed comments have been written for easy understanding.
 
 # Requirements
 
