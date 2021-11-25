@@ -9,6 +9,8 @@ This is a non-profit project made for learning purposes. We do not intend to inf
 
 # Features
 
+We rewrote Sonic Worlds with significant changes to the core, such as improvements to the collision system, sensors, angle detection, visual angle calculation, landing, ceiling landing and physics.
+
 The base 360 Platform Movement and physics is already finished. The codes were built to be more economical, saving performance and making it easier for users to understand. An extensive internal documentation was been written.
 
 Talking about the base, we keep some things from the original base, such as _some_ parts of the movement routine and the actions system using group activation/deactivation, but everything with some rewritting and/or improvements (e.g. the actions which were all rewritten, keeping only the way they are activated and deactivated).
