@@ -95,6 +95,9 @@
 
 # Art Credits
 
+## Tales499
+- Logo art;
+
 ## Tyson Tay
   - Test Level Tiles;
 
