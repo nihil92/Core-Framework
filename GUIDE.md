@@ -40,7 +40,7 @@ Shaders are very useful tools for manipulating images. Using a shader lets you t
 
 Just go to the object's properties and select the effect you like. Clickteam Fusion has some standard effects like monochrome, add, subtract, etc. but it is also possible to use custom effects.
 
-## How to install a effect
+## How to install a custom effect
 
 Just extract the contents of the desired shader to the "Effects" folder contained in the main Clickteam Fusion directory. It is recommended that you install the effect before opening Clickteam Fusion. This will prevent some error messages in the location of the effect. But you can always "ignore" the warning message and remove the effect if you don't have the required effect.
 
