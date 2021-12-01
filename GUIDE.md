@@ -205,3 +205,6 @@ To get "compare two general values" condition, just click on gear icon and selec
 
 ### Lerp
 ```<x>*(1-<a>) + <y> * <a>```
+
+### Convert seconds into frames
+```1000 * <Seconds>```
