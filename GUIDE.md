@@ -208,4 +208,3 @@ To get "compare two general values" condition, just click on gear icon and selec
 
 ### Convert "GameTimer"
 ```1000 * <Seconds>```
-e.g, if you want to get the value of 1:30:00 just do like this: ```1000 * 90```.
