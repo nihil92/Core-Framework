@@ -46,11 +46,10 @@ Just extract the contents of the desired shader to the "Effects" folder containe
 
 ## Included Effects
 
-- Replace Color Smoothly (DX9 and DX11)
-- Dynamic Color Replacer (DX9 and DX11)
+- Pixel Palette with lerp (DX9 and DX11)
 - Studiopolis Glass (DX9 and DX11)
 
-### Replace Color
+### Pixel Palette with lerp
 
 This effect is used to switch from an **"original palette"** to a **"target palette"**. This can be done by defining the texture for a image with the desired palettes and editing the ``"lerpVal"`` parameter. Values closer to 0.0 will make the palette be the **original**, while values closer to 1.0 will make the palette be the **target** one. You can alternate two palettes smoothly, just setting the EffectParam ``"lerpVal"`` to ``Sin(GlobalTimer( "MasterLevel" ) * <desired value>)``. Furthermore, you can use something like ``Max(EffectParam( "Your Object", "lerpVal" ) + <desired value>, 1.0)`` to make a smooth transition between the **original palette** and the **target palette** (e.g. transition to sunset palette). 
 
