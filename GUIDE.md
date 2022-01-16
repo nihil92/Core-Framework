@@ -125,7 +125,6 @@ Group.Friends - Sensors
 Group.Enemy - Badniks
 Group.Arm - Hurtable Object
 Group.Bullet - Bullet
-Group.Shield - Global Stop
 Group.Ball - Bumpers
 Group.Invisible - Breaking Platforms
 Group.Powerup - Monitors
@@ -144,11 +143,10 @@ Group.Waveform - Fans
 Group.Particles - Bubbles
 Group.Bosses - ...Bosses
 Group.Arrows - Hanging Bars
-Group.Clothes - Capsule
 Group.Explosions - Explosions
 Group.Keys - Switches
 Group.Doors - Doors
-Group.Obstacles= Solid 
+Group.Obstacles - Solid 
 (for when you want a Group.0 object to collide with another solid surface).
 Group.Target - Portals
 
