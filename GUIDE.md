@@ -140,7 +140,7 @@ Group.Movable - Conveyor Belts
 Group.Value Holder - Corkscrews
 Group.Dissolving - Falling Platforms
 Group.Waveform - Fans
-Group.Particles - Bubbles
+
 Group.Bosses - ...Bosses
 Group.Arrows - Hanging Bars
 Group.Explosions - Explosions
