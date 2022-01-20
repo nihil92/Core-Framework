@@ -81,8 +81,6 @@ First, keep in mind that you can use whatever size you like, as long as all the 
 
 The system is fully automated, so you don't need to mess around with math for each piece to move. All you need to do is edit the Offset or Scroll values to the desired values. Recently, a system to facilitate the ordering of parallaxes was implemented. All you need to do is edit the "SubLayer" value to the desired value, considering that the higher the number, the further forward it will be.
 
-#### ORDERING
-
 Parallax has support for act transition, but this can be complex for beginners. The fact is that when the transition is activated, the framework automatically loads the positions that each piece of parallax had in the previous level room. Note that in ACT 1 the parallax IDs range from 1 to 4, but in ACT 2 they range from -1 to 4. This is because ACT 2 also uses the parallaxes from ACT 1. So to prevent them from appearing incorrectly in the transition, the IDs of each parallax piece need to match what they were in the previous level.
 
 ## Layer Switching
