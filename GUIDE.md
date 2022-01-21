@@ -55,7 +55,7 @@ This effect is used to switch from an **"original palette"** to a **"target pale
 
 There are, however, some shader limitations depending on which DX version you use. The image must necessarily be 2x256, even though it doesn't fill all the space (you can leave a transparent space in this case). DX9 is limited to 32 colors per object, while DX11 is limited to 256. Also, this shader applied directly to the object can cause the Frame Editor to slow down on some computers. You can avoid this problem by hiding the layer the object in question is on. By the way, I recommend that you use the folders in the left corner instead of messing with objects outside the frame.
 
-A variation of this shader can be used for the underwater palette. The problem is that the shader for water has a limitation and will not paint transparent objects. This doesn't look like a fault of Fusion, but of the way shaders work in DirectX11. Even in Orbinaut Framework, there is this limitation. We've tried to do everything we can to make it work, but that doesn't seem possible at the moment.
+A variation of this shader can be used for the underwater palette. The problem is that the shader for water has a limitation and will not paint transparent objects. This doesn't look like a fault of Fusion, but of the way shaders work in DirectX11. Even in Orbinaut Framework, there is this limitation. We've tried to do everything we can to make it work, but that doesn't seem possible at the moment. Since the underwater palette effect don't reached good results for objects with transparency we decided to make it optional in the demo. If you want to use it, simply remove the "Set effect to subtract" line on the "Water (Pre)" group.
 
 # CUSTOMIZATION OPTIONS PER LEVEL
 
