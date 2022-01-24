@@ -22,7 +22,7 @@ Detailed comments have been written for easy understanding.
 
 # Requirements
 
-You need to purchase a legit [Clickteam Fusion 2.5+](https://store.steampowered.com/app/1056780/Clickteam_Fusion_25_Addon/) copy to use it. Make sure to install the most recent version of [SDL Joystick](https://github.com/SortaCore/SDLJoystick-priv) and the included shaders to make this works.
+You need to purchase a legit [Clickteam Fusion 2.5+](https://store.steampowered.com/bundle/10632/Standard/) copy to use it. Make sure to install the most recent version of [SDL Joystick](https://github.com/SortaCore/SDLJoystick-priv) and the included shaders to make this works.
 
 # Discord Server
 
