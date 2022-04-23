@@ -119,10 +119,10 @@ Duplicate a bridge spawner, edit the object width to a number multiples of 16 an
 ```
 Group.0 - Solid // Flag 0 on = NON SOLID / Flag 0 off = SOLID
 Group.1 - Platform
-Group.2 - No Slope Checking
+Group.2 - Cancel Slope Checking
 Group.3 - Layer 0
 Group.4 - Layer 1
-Group.5 - UNUSED
+Group.5 - Force Slope Checking
 Group.6 - Moving Platform
 Group.7 - Pushable
 Group.8 - Crushable
