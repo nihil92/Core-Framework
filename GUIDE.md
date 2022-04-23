@@ -122,7 +122,7 @@ Group.1 - Platform
 Group.2 - No Slope Checking
 Group.3 - Layer 0
 Group.4 - Layer 1
-Group.5 - Special Slopes (for when it have issue to check angle)
+Group.5 - UNUSED
 Group.6 - Moving Platform
 Group.7 - Pushable
 Group.8 - Crushable
