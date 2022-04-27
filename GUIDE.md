@@ -165,7 +165,7 @@ Group.Generic 2 - Spike Balls (Mighty)
 
 ## Limitations
 
-- The palettes shaders are not compatible with alpha blend (transparency).
+- The underwater palette shader is not compatible with alpha blend (transparency).
 
 ## Math
 
