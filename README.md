@@ -5,7 +5,9 @@ Core is a open-source Sonic framework for Clickteam Fusion 2.5 Plus created by [
 
 # Disclaimer
 
-Core is a non-profit project made for educational purposes developed to be the most complete and friendly Sonic framework for Clickteam Fusion. You are free to use this framework however you want, as long as you be within our terms of use:
+Core is a non-profit project made for educational purposes developed to be the most complete and friendly Sonic framework for Clickteam Fusion. You are free to use this framework however you want, as long as you be within our terms of use.
+
+# Terms of Use
 
 - Credit everyone involved in the development of this project.
 - Do not falsely claim that this structure or parts of it are made by you. For example, releasing a reskinned version removing the name of the developers or using parts of the code from this framework in another framework without crediting the author.
