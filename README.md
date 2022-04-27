@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/66818008/143420945-0be3888e-573f-45be-b34f-399f30e1d252.png)
 
-#About
+# About
 
 Core is a open-source Sonic framework for Clickteam Fusion 2.5 Plus created by [Nihil](https://github.com/nihil92/) & Lighto in association with Tyson Tay, Ainand, YohananDiamond, Chopp, Yonatankr, Dark, Joshyflip, Carlos Ushiromiya, Dolphman, Yolkin, Troopsushi, Angeloz, Jeloboi, EX64, Tales499 and Nuclear.
 
