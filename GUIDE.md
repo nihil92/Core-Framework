@@ -227,8 +227,8 @@ This block is one object labeled with the 'qualifier/group' ``Group.7`` which is
 
 Here is a explanation of the variables that you can edit.
 
-``Weight`` As the name says, it defines the weight of the block. The lower the value used, the lighter the block will be. I recommend using the number 3 as default.
-``LeftLimit`` Set the limit (in pixels) that the block can move to the left.
-``RightLimit`` Set the limit (in pixels) that the block can move to the right.
+- ``Weight`` As the name says, it defines the weight of the block. The lower the value used, the lighter the block will be. I recommend using the number 3 as default.
+- ``LeftLimit`` Set the limit (in pixels) that the block can move to the left.
+- ``RightLimit`` Set the limit (in pixels) that the block can move to the right.
 
 This block is one object labeled with the 'qualifier/group' ``Group.7`` which is associated to pushable objects behavior. If you want different behaviors, you can clone this block and edit the startup values.
