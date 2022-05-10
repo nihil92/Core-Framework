@@ -219,7 +219,7 @@ To get "compare two general values" condition, just click on gear icon and selec
 ### Convert "GameTimer"
 ```1000 * <Seconds>```
 
-# OBJECTS
+# OBJECTS USAGE
 
 ## Pushables
 
@@ -230,5 +230,7 @@ Here is a explanation of the variables that you can edit.
 - ``Weight`` As the name says, it defines the weight of the block. The lower the value used, the lighter the block will be. I recommend using the number 3 as default.
 - ``LeftLimit`` Set the limit (in pixels) that the block can move to the left.
 - ``RightLimit`` Set the limit (in pixels) that the block can move to the right.
+- ``Direction`` Set the directions the block can move (0 for both, 1 for left and -1 for right).
+- ``Repositionable`` Set whether the block can be repositioned after a certain distance.
 
 This block is one object labeled with the 'qualifier/group' ``Group.7`` which is associated to pushable objects behavior. If you want different behaviors, you can clone this block and edit the startup values.
