@@ -231,6 +231,6 @@ Here is a explanation of the variables that you can edit.
 - ``LeftLimit`` Set the limit (in pixels) that the block can move to the left.
 - ``RightLimit`` Set the limit (in pixels) that the block can move to the right.
 - ``Direction`` Set the directions the block can move (0 for both, 1 for left and -1 for right).
-- ``Repositionable`` Set whether the block can be repositioned after a certain distance.
+- ``Repositionable`` Set whether the block can be repositioned to their original position after a certain distance.
 
 This block is one object labeled with the 'qualifier/group' ``Group.7`` which is associated to pushable objects behavior. If you want different behaviors, you can clone this block and edit the startup values.
