@@ -142,7 +142,6 @@ Group.Drawning Tools - Bridges
 Group.Neutral - Swing (Spawner)
 Group.Good - Swing (Main Object)
 Group.Engine - Remove objects outside the frame
-Group.Flowers - Swing Ropes
 Group.Reference Points - Invincible Stars
 
 Group.Movable - Conveyor Belts
