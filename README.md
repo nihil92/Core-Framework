@@ -6,7 +6,7 @@ Core is a Sonic project created by [Nihil](https://github.com/nihil92/) and Ligh
 
 # History
 
-Core began development in mid-2019 with the initial aim of correcting Sonic Worlds' inaccuracies and revamping it to the Sonic Mania style. But from the ``0.23.0`` version we decided to rewrite everything from scratch to make use of the contemporary Fusion features. 
+Core began development in mid-2019 with the initial aim of correcting Sonic Worlds' inaccuracies and revamping it to the Sonic Mania style. But from the 0.23.0 version we decided to rewrite everything from scratch to make use of the contemporary Fusion features. 
 
 We rewrote the same methods as Sonic Worlds in some situations, but with a ton of changes like the improvements to the collision system, sensors, angle detection, visual angle calculation, landing, ceiling landing and physics. 
 
