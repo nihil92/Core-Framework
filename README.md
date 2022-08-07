@@ -2,9 +2,9 @@
 
 # About
 
-CORE FRAMEWORK is a project created by [Nihil](https://github.com/nihil92/) and Lighto, with the collaboration from Tyson Tay, Ainand, YohananDiamond, Chopp, Yonatankr, Dark, Joshyflip, Carlos Ushiromiya, Dolphman, Yolkin, Troopsushi, Angeloz, Jeloboi, EX64, CesarFernandes, Tales499, Nuclear and Sonic community in general.
+CORE FRAMEWORK is a Sonic 'engine' created by [Nihil](https://github.com/nihil92/) and Lighto, with the collaboration from Tyson Tay, Ainand, YohananDiamond, Chopp, Yonatankr, Dark, Joshyflip, Carlos Ushiromiya, Dolphman, Yolkin, Troopsushi, Angeloz, Jeloboi, EX64, CesarFernandes, Tales499, Nuclear and Sonic community in general.
 
-Core was a modified version of Sonic Worlds, but we decided to rewrite it as of version 0.23.0 with significant changes, such as improvements to the collision system, sensors, angle detection, visual angle calculation, landing, ceiling landing and physics.
+Core was a modified version of Sonic Worlds in the past, but we decided to rewrite it as of version 0.23.0 with significant changes, such as improvements to the collision system, sensors, angle detection, visual angle calculation, landing, ceiling landing and physics.
 
 The base 360 Platform Movement and physics is already finished. The codes were built to be more economical and saving performance. We keep some things from the original base, such as some parts of the movement routine and the actions system using group activation/deactivation, but everything with some rewritting and/or improvements (e.g. the actions which were all rewritten, keeping only the way they are activated and deactivated).
 
