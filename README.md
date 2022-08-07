@@ -8,7 +8,7 @@ Core was a modified version of Sonic Worlds in the past, but we decided to rewri
 
 # Features
 
-- Fully fuctional 360° platform movement and accurate Genesis physics.
+- 360° platform movement and accurate classic physics.
 - 6 playable characters with their respective abilities.
 - Support for gamepad using SDL extension.
 - Act transition system.
