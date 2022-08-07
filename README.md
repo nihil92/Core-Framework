@@ -6,14 +6,15 @@ CORE FRAMEWORK is a Sonic project created by [Nihil](https://github.com/nihil92/
 
 # Features
 
-- 360° custom platform movement and accurate physics.
-- 6 playable characters with their respective abilities.
-- Support for gamepad using SDL extension.
-- Options (BGM and SFX volume control, screen size and save system).
-- Act transition system.
-- Active Parallax Scrolling System.
+- 360 Platform Movement
+- Accurate Sonic Physics
+- 6 playable characters with their respective abilities
+- Support for gamepad using SDL extension
+- Options (BGM and SFX volume control, screen size and save system)
+- Act transition system
+- Parallax Scrolling
 - Common stage objects (badniks, springs, monitors, rings, hazards, etc.)
-- Palette shaders.
+- Palette shaders
 
 Core was a modified version of Sonic Worlds in the past, but we decided to rewrite it as of version 0.23.0 with significant changes, such as improvements to the collision system, sensors, angle detection, visual angle calculation, landing, ceiling landing and physics. The code is wrote to be more economical and saving performance. We keep some things from the original base, such as some parts of the movement routine and the actions system using group activation/deactivation, but everything with some rewritting and/or improvements (e.g. the actions which were all rewritten, keeping only the way they are activated and deactivated).
 
