@@ -6,7 +6,7 @@ Core began development in mid-2019 with the initial aim of correcting Sonic Worl
 
 # About
 
-CORE FRAMEWORK is a Sonic project created by [Nihil](https://github.com/nihil92/) and Lighto, with the collaboration from Tyson Tay, Ainand, YohananDiamond, Chopp, Yonatankr, Dark, Joshyflip, Carlos Ushiromiya, Dolphman, Yolkin, Troopsushi, Angeloz, Jeloboi, EX64, CesarFernandes, Tales499, Nuclear and Sonic community in general.
+Core is a Sonic project created by [Nihil](https://github.com/nihil92/) and Lighto, with the collaboration from Tyson Tay, Ainand, YohananDiamond, Chopp, Yonatankr, Dark, Joshyflip, Carlos Ushiromiya, Dolphman, Yolkin, Troopsushi, Angeloz, Jeloboi, EX64, CesarFernandes, Tales499, Nuclear and Sonic community in general.
 
 # Features
 
