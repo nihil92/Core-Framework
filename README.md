@@ -11,6 +11,7 @@ Core was a modified version of Sonic Worlds in the past, but we decided to rewri
 - 360° custom platform movement and accurate physics.
 - 6 playable characters with their respective abilities.
 - Support for gamepad using SDL extension.
+- Options (BGM and SFX volume control, screen size and save system).
 - Act transition system.
 - Active Parallax Scrolling System.
 - Common stage objects (badniks, springs, monitors, rings, hazards, etc.)
