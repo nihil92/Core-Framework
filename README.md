@@ -1,5 +1,13 @@
 ![image](https://user-images.githubusercontent.com/66818008/143420945-0be3888e-573f-45be-b34f-399f30e1d252.png)
 
+# History
+
+Core began development in mid-2019 with the aim of correcting Sonic Worlds' inaccuracies and revamping it to the Sonic Mania style. However, as of version 23.0, we decided to rewrite everything from scratch to keep to use the contemporary Clickteam Fusion features. We keep the same methods as Worlds in some situations, but with a ton of changes, such as improvements to the collision system, sensors, angle detection, visual angle calculation, landing, ceiling landing and physics. The code is wrote to be more economical and saving performance. We keep some things from the original base, such as some parts of the movement routine and the actions system using group activation/deactivation, but everything with some rewritting and/or improvements (e.g. the actions which were all rewritten, keeping only the way they are activated and deactivated).
+
+Some things that naturally worked great were ported from Sonic Worlds Delta, like tunnels, screw, corkscrew and breakable floor in with slight adaptations, but everything else was rewritten by us.
+
+Detailed comments have been written for easy understanding.
+
 # About
 
 CORE FRAMEWORK is a Sonic project created by [Nihil](https://github.com/nihil92/) and Lighto, with the collaboration from Tyson Tay, Ainand, YohananDiamond, Chopp, Yonatankr, Dark, Joshyflip, Carlos Ushiromiya, Dolphman, Yolkin, Troopsushi, Angeloz, Jeloboi, EX64, CesarFernandes, Tales499, Nuclear and Sonic community in general.
@@ -15,12 +23,6 @@ CORE FRAMEWORK is a Sonic project created by [Nihil](https://github.com/nihil92/
 - Parallax Scrolling
 - Common stage objects (badniks, springs, monitors, rings, hazards, etc.)
 - Palette shaders
-
-Core was a modified version of Sonic Worlds in the past, but we decided to rewrite it as of version 0.23.0 with significant changes, such as improvements to the collision system, sensors, angle detection, visual angle calculation, landing, ceiling landing and physics. The code is wrote to be more economical and saving performance. We keep some things from the original base, such as some parts of the movement routine and the actions system using group activation/deactivation, but everything with some rewritting and/or improvements (e.g. the actions which were all rewritten, keeping only the way they are activated and deactivated).
-
-Some things that naturally worked great were ported from Sonic Worlds Delta, like tunnels, screw, corkscrew and breakable floor in with slight adaptations, but everything else was rewritten by us.
-
-Detailed comments have been written for easy understanding.
 
 # Requirements
 
