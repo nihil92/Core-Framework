@@ -2,7 +2,9 @@
 
 # History
 
-Core began development in mid-2019 with the aim of correcting Sonic Worlds' inaccuracies and revamping it to the Sonic Mania style. However, as of version 23.0, we decided to rewrite everything from scratch to keep to use the contemporary Clickteam Fusion features. We keep the same methods as Worlds in some situations, but with a ton of changes, such as improvements to the collision system, sensors, angle detection, visual angle calculation, landing, ceiling landing and physics. The code is wrote to be more economical and saving performance. We keep some things from the original base, such as some parts of the movement routine and the actions system using group activation/deactivation, but everything with some rewritting and/or improvements (e.g. the actions which were all rewritten, keeping only the way they are activated and deactivated).
+Core began development in mid-2019 with the aim of correcting Sonic Worlds' inaccuracies and revamping it to the Sonic Mania style. However, as of version 23.0, we decided to rewrite everything from scratch to keep to use the contemporary Clickteam Fusion features. We keep the same methods as Worlds in some situations, but with a ton of changes, such as improvements to the collision system, sensors, angle detection, visual angle calculation, landing, ceiling landing and physics. 
+
+The code is wrote to be more economical and saving performance. We keep some things from the original base, such as some parts of the movement routine and the actions system using group activation/deactivation, but everything with some rewritting and/or improvements (e.g. the actions which were all rewritten, keeping only the way they are activated and deactivated).
 
 Some things that naturally worked great were ported from Sonic Worlds Delta, like tunnels, screw, corkscrew and breakable floor in with slight adaptations, but everything else was rewritten by us.
 
