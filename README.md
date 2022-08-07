@@ -6,6 +6,10 @@ Core is a non-profit project made for educational purposes developed to be the m
 
 Core is a open-source Sonic framework for Clickteam Fusion 2.5 Plus created by [Nihil](https://github.com/nihil92/) & Lighto in association with Tyson Tay, Ainand, YohananDiamond, Chopp, Yonatankr, Dark, Joshyflip, Carlos Ushiromiya, Dolphman, Yolkin, Troopsushi, Angeloz, Jeloboi, EX64, CesarFernandes, Tales499 and Nuclear.
 
+# Requirements
+
+You need to purchase a legit [Clickteam Fusion 2.5+](https://store.steampowered.com/bundle/10632/Standard/) copy to use it. Make sure to install the most recent version of [SDL Joystick](https://github.com/SortaCore/SDLJoystick-priv/releases/), [Scope Control](https://github.com/Uppernate/ScopeControlPublic) and the included shaders to make this works.
+
 # Terms of Use
 
 You are free to use this framework however you want, as long as you be within our terms of use.
@@ -26,10 +30,6 @@ It has support for SDL Joystick, volume control, display options, save system. I
 Some things that naturally worked great were ported from Sonic Worlds Delta, like tunnels, screw, corkscrew and breakable floor in with slight adaptations, but everything else was rewritten by us.
 
 Detailed comments have been written for easy understanding.
-
-# Requirements
-
-You need to purchase a legit [Clickteam Fusion 2.5+](https://store.steampowered.com/bundle/10632/Standard/) copy to use it. Make sure to install the most recent version of [SDL Joystick](https://github.com/SortaCore/SDLJoystick-priv/releases/), [Scope Control](https://github.com/Uppernate/ScopeControlPublic) and the included shaders to make this works.
 
 # Discord Server
 
