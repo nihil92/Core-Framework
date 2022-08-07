@@ -6,7 +6,7 @@ CORE FRAMEWORK is a project created by [Nihil](https://github.com/nihil92/) and 
 
 # Requirements
 
-You need to purchase a legit [Clickteam Fusion 2.5+](https://store.steampowered.com/bundle/10632/Standard/) copy to use it. Make sure to install the most recent version of [SDL Joystick](https://github.com/SortaCore/SDLJoystick-priv/releases/), [Scope Control](https://github.com/Uppernate/ScopeControlPublic) and the included shaders to make this works.
+You need to purchase a legit [Clickteam Fusion 2.5+](https://store.steampowered.com/bundle/10632/Standard/) copy to use it. Make sure to install the most recent version of [SDL Joystick](https://github.com/SortaCore/SDLJoystick-priv/releases/), [Scope Control](https://github.com/Uppernate/ScopeControlPublic) and the included shaders to make this works. The latest version is compatible with 292.22 build or higher.
 
 # Terms of Use
 
