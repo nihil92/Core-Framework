@@ -7,7 +7,7 @@ CORE FRAMEWORK is a Sonic project created by [Nihil](https://github.com/nihil92/
 # Features
 
 - 360 Platform Movement
-- Accurate Sonic Physics
+- Accurate Physics
 - 6 playable characters with their respective abilities
 - Support for gamepad using SDL extension
 - Options (BGM and SFX volume control, screen size and save system)
