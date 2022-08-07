@@ -2,7 +2,7 @@
 
 # About
 
-CORE FRAMEWORK is a Sonic 'engine' created by [Nihil](https://github.com/nihil92/) and Lighto, with the collaboration from Tyson Tay, Ainand, YohananDiamond, Chopp, Yonatankr, Dark, Joshyflip, Carlos Ushiromiya, Dolphman, Yolkin, Troopsushi, Angeloz, Jeloboi, EX64, CesarFernandes, Tales499, Nuclear and Sonic community in general.
+CORE FRAMEWORK is a Sonic 'framework' created by [Nihil](https://github.com/nihil92/) and Lighto, with the collaboration from Tyson Tay, Ainand, YohananDiamond, Chopp, Yonatankr, Dark, Joshyflip, Carlos Ushiromiya, Dolphman, Yolkin, Troopsushi, Angeloz, Jeloboi, EX64, CesarFernandes, Tales499, Nuclear and Sonic community in general.
 
 Core was a modified version of Sonic Worlds in the past, but we decided to rewrite it as of version 0.23.0 with significant changes, such as improvements to the collision system, sensors, angle detection, visual angle calculation, landing, ceiling landing and physics.
 
