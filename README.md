@@ -18,7 +18,6 @@ You are free to use this framework however you want, as long as you be within ou
 
 # Features
 
-
 Core was a modified version of Sonic Worlds, but we decided to rewrite it as of version 0.23.0 with significant changes, such as improvements to the collision system, sensors, angle detection, visual angle calculation, landing, ceiling landing and physics.
 
 The base 360 Platform Movement and physics is already finished. The codes were built to be more economical and saving performance. We keep some things from the original base, such as some parts of the movement routine and the actions system using group activation/deactivation, but everything with some rewritting and/or improvements (e.g. the actions which were all rewritten, keeping only the way they are activated and deactivated).
