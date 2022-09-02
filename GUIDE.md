@@ -7,7 +7,7 @@ This documentation is valid for version 0.23.02.
 For get started, we assume that you have some prior knowledge related about Clickteam Fusion to use this framework. Otherwise, you might have trouble understanding how we made some stuff. For this reason, we recommend that you learn the following topics so that you don't have any problems developing on Core:
 
 - Clickteam Fusion features and synthax;
-- Alterable Values, Alterable Strings and Flags;
+- Alterable Values, Alterable Strings and Flags (Booleans);
 - Arrays;
 - Layer Object;
 - Shaders Basics;
