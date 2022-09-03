@@ -2,7 +2,7 @@
 
 # About
 
-Core is high level classic Sonic framework made for Clickteam Fusion 2.5 Plus.
+Core is high-level Sonic framework made for Clickteam Fusion 2.5 Plus.
 
 # Credits
 
