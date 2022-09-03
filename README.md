@@ -2,7 +2,7 @@
 
 # Credits
 
-- **Project Leader/Main Programming:** Nihil.
+- **Project Leader** Nihil.
 - **Programming:** Nihil, Lighto, YohananDiamond, Chopp, Dark and Yonatankr.
 - **Art:** Tyson Tay, joshyflip, Dolphman, Ainand, Yolkin, Tales499, Jeloboi and Troopsushi.
 - **Level Design:** Ainand, Dark, Chopp and Nihil.
