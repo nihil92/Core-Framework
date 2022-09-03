@@ -1,5 +1,9 @@
 ![image](https://user-images.githubusercontent.com/66818008/143420945-0be3888e-573f-45be-b34f-399f30e1d252.png)
 
+# About
+
+CORE FRAMEWORK is highly-accurate and easy to use classic Sonic framework made for Clickteam Fusion 2.5 Plus.
+
 # Credits
 
 - **Project Leader** Nihil.
