@@ -4,6 +4,23 @@
 
 Core is high-level Sonic framework made for Clickteam Fusion 2.5 Plus.
 
+# Requirements
+
+You need to purchase a legit [Clickteam Fusion 2.5+](https://store.steampowered.com/bundle/10632/Standard/) copy to use it. Make sure to install the most recent version of [SDL Joystick](https://github.com/SortaCore/SDLJoystick-priv/releases/), [Scope Control](https://github.com/Uppernate/ScopeControlPublic) and the included shaders to make this works. The latest version is compatible with 292.22 build or higher.
+
+# Features
+
+- 360 Platform Movement
+- Accurate Physics
+- 6 playable characters with their respective abilities
+- Support for gamepad using SDL extension
+- 3D Sound System
+- Options (BGM and SFX volume control, screen size and save system)
+- Act transition system
+- Parallax Scrolling
+- Common stage objects (badniks, springs, monitors, rings, hazards, etc.)
+- Palette shaders
+
 # Credits
 
 - **Project Leader** Nihil.
@@ -22,23 +39,6 @@ We rewrote the same methods as Sonic Worlds in some situations, but with a ton o
 We rewrote a ton of gimmicks and features from Delta into a *brand new code*, just like every action, rings, monitors, spikes, platforms, bridges, etc. Some things that naturally worked great were adapted from Sonic Worlds Delta, like water tunnels, screw, corkscrew with slight edits, but everything else was written by us. 
 
 We can say that versions before 0.23.0 were modifications of Worlds, while versions after that are a fully rewrite.
-
-# Features
-
-- 360 Platform Movement
-- Accurate Physics
-- 6 playable characters with their respective abilities
-- Support for gamepad using SDL extension
-- 3D Sound System
-- Options (BGM and SFX volume control, screen size and save system)
-- Act transition system
-- Parallax Scrolling
-- Common stage objects (badniks, springs, monitors, rings, hazards, etc.)
-- Palette shaders
-
-# Requirements
-
-You need to purchase a legit [Clickteam Fusion 2.5+](https://store.steampowered.com/bundle/10632/Standard/) copy to use it. Make sure to install the most recent version of [SDL Joystick](https://github.com/SortaCore/SDLJoystick-priv/releases/), [Scope Control](https://github.com/Uppernate/ScopeControlPublic) and the included shaders to make this works. The latest version is compatible with 292.22 build or higher.
 
 # Terms of Use
 
