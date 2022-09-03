@@ -4,6 +4,15 @@
 
 Core is high-level Sonic framework made for Clickteam Fusion 2.5 Plus.
 
+# Credits
+
+- **Project Leader** Nihil.
+- **Programming:** Nihil, Lighto, YohananDiamond, Chopp, Dark and Yonatankr.
+- **Art:** Tyson Tay, joshyflip, Dolphman, Ainand, Yolkin, Tales499, Jeloboi and Troopsushi.
+- **Level Design:** Ainand, Dark, Chopp and Nihil.
+- **Music:** DJ Vertstyle.
+- **Special Thanks:** EX64, HezMania, CesarFernandes, Phi and Uppernate.
+
 # Requirements
 
 You need to purchase a legit [Clickteam Fusion 2.5+](https://store.steampowered.com/bundle/10632/Standard/) copy to use it. Make sure to install the most recent version of [SDL Joystick](https://github.com/SortaCore/SDLJoystick-priv/releases/), [Scope Control](https://github.com/Uppernate/ScopeControlPublic) and the included shaders to make this works. The latest version is compatible with 292.22 build or higher.
@@ -20,15 +29,6 @@ You need to purchase a legit [Clickteam Fusion 2.5+](https://store.steampowered.
 - Parallax Scrolling
 - Common stage objects (badniks, springs, monitors, rings, hazards, etc.)
 - Palette shaders
-
-# Credits
-
-- **Project Leader** Nihil.
-- **Programming:** Nihil, Lighto, YohananDiamond, Chopp, Dark and Yonatankr.
-- **Art:** Tyson Tay, joshyflip, Dolphman, Ainand, Yolkin, Tales499, Jeloboi and Troopsushi.
-- **Level Design:** Ainand, Dark, Chopp and Nihil.
-- **Music:** DJ Vertstyle.
-- **Special Thanks:** EX64, HezMania, CesarFernandes, Phi and Uppernate.
 
 # History
 
