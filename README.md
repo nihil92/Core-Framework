@@ -6,7 +6,7 @@
 - **Programming:** Nihil, Lighto, YohananDiamond, Chopp, Dark and Yonatankr.
 - **Art:** Tyson Tay, joshyflip, Dolphman, Ainand, Yolkin, Tales499, Jeloboi and Troopsushi.
 - **Level Design:** Ainand, Dark, Chopp and Nihil.
-- **Background Music:** Dj Vertstyle
+- **Music:** DJ Vertstyle
 - **Special Thanks:** EX64, HezMania, CesarFernandes, Phi and Uppernate.
 
 # History
