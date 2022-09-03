@@ -11,7 +11,7 @@ Core is high-level Sonic framework made for Clickteam Fusion 2.5 Plus.
 - **Art:** Tyson Tay, joshyflip, Dolphman, Ainand, Yolkin, Tales499, Jeloboi, Grakai, Louplayer and Troopsushi.
 - **Level Design:** Ainand, Dark, Chopp and Nihil.
 - **Music:** DJ Vertstyle.
-- **Special Thanks:** EX64, HezMania, CesarFernandes, Phi and Uppernate.
+- **Special Thanks:** EX64, HezMania, CesarFernandes, Phi, Uppernate and Israel.
 
 # Requirements
 
