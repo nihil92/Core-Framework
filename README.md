@@ -46,7 +46,7 @@ You are free to use this framework however you want, as long as you be within ou
 
 - Credit everyone involved in the development of this project.
 - You can use this framework to develop commercial games, as long as you don't use anything protected by copyright in your game (e.g. don't commercialize a game using the Sonic the Hedgehog brand under any circumstances).
-- Do not falsely claim that this structure or parts of it are made by you. For example, releasing a reskinned version removing the name of the developers or using parts of the code from this framework in another framework without crediting the author.
+- Don't re-release this framework without permission.
 
 # Discord Server
 
