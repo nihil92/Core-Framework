@@ -2,16 +2,12 @@
 
 # Credits
 
-- **Project Leader:** Nihil
+- **Project Leader:** Nihil.
 - **Programming:** Nihil, Lighto, YohananDiamond, Chopp, Dark and Yonatankr.
 - **Art:** Tyson Tay, joshyflip, Dolphman, Ainand, Yolkin, Tales499, Jeloboi and Troopsushi.
 - **Level Design:** Ainand, Dark, Chopp and Nihil.
 - **Background Music:** Dj Vertstyle
 - **Special Thanks:** EX64, CesarFernandes (Naitor), Phi and Uppernate.
-
-# Info
-
-Core is a Sonic project created by [Nihil](https://github.com/nihil92/) and Lighto, with the collaboration from Tyson Tay, Ainand, YohananDiamond, Chopp, Yonatankr, Dark, Joshyflip, Carlos Ushiromiya, Dolphman, Yolkin, Troopsushi, Angeloz, Jeloboi, EX64, CesarFernandes, Tales499, Nuclear and Sonic community in general.
 
 # History
 
