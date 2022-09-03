@@ -42,8 +42,6 @@ We can say that versions before 0.23.0 were modifications of Worlds, while versi
 
 # Terms of Use
 
-You are free to use this framework however you want, as long as you be within our terms of use.
-
 - Credit everyone involved in the development of this project.
 - You can use this framework to develop your own fangames and indies (not Sonic!) as long as you don't use anything protected by copyright in your game (e.g. don't commercialize a game using the Sonic the Hedgehog brand under any circumstances).
 - Don't re-release this framework without permission.
