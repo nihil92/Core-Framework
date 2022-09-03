@@ -7,7 +7,7 @@
 - **Art:** Tyson Tay, joshyflip, Dolphman, Ainand, Yolkin, Tales499, Jeloboi and Troopsushi.
 - **Level Design:** Ainand, Dark, Chopp and Nihil.
 - **Background Music:** Dj Vertstyle
-- **Special Thanks:** EX64, CesarFernandes (Naitor), Phi and Uppernate.
+- **Special Thanks:** EX64, HezMania, CesarFernandes, Phi and Uppernate.
 
 # History
 
