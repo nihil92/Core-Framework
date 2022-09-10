@@ -30,6 +30,10 @@ For get started, we assume that you have some prior knowledge related about Clic
 
 - You can use search tool pressing CTRL+SHIFT+F.
 
+# FUNCTIONS
+
+"function_RandomPool"
+
 
 # SHADERS
 
