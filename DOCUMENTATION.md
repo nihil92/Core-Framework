@@ -33,7 +33,10 @@ For get started, we assume that you have some prior knowledge related about Clic
 # FUNCTIONS
 
 ``function_RandomPool``: Returns a random number from a defined list.
-
+1. Set "PoolList" to the list of numbers you want to pick up. If you want to take a number bettween 1, 3 and 5, do it: "135".
+2. Set "PoolDigits" to the number of digits your number have. If your numbers are ``1, 3, 5`` make it 1, if your numbers are ``08, 16, 32`` it is 2.
+3. Run "function_RandomPool" 1 time.
+4. Set your variable to the "PoolResult".
 
 # SHADERS
 
