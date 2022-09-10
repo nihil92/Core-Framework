@@ -32,7 +32,7 @@ For get started, we assume that you have some prior knowledge related about Clic
 
 # FUNCTIONS
 
-``function_RandomPool``
+``function_RandomPool``: Returns a random number from a predetermined list.
 
 
 # SHADERS
