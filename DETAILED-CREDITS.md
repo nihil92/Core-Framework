@@ -1,3 +1,13 @@
+**- Project Leader:** Nihil
+**- Programming:** Nihil, Lighto, YohananDiamond, Chopp, Dark and Yonatankr
+**- Art:** Tyson Tay, joshyflip, Dolphman, Ainand, Yolkin, Tales499, Jeloboi, Grakai, Louplayer and Troopsushi
+**- Level Design:** Ainand, Dark, Chopp and Nihil
+**- Music:** DJ Vertstyle and Nuclear
+**- Special Thanks:** EX64, HezMania, CesarFernandes, Linky, Phi, Uppernate and Israel
+
+
+
+
 # Coding Credits
 
 ## Nihil
