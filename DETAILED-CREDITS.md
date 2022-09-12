@@ -64,7 +64,6 @@
   - Ray's Gliding;
   - Pinata's Particles;
   - Monitors Particles;
-  - Losing Rings Effect;
 
 ## YohananDiamond (YD)
   - Support on advanced math and physics;
@@ -82,7 +81,6 @@
   - Improvements on bubbles;
 
 ## Ainand
-  - Input for Joypads; // Old one was made by EX64.
   - Implemented Layer 2 and 3;
   - AIZ Ramps;
 
