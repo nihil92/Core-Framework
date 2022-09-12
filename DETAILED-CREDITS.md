@@ -54,7 +54,6 @@
   - Act 2 Camera;
 
 ## Yonatankr
-  - Angle Detecting Equation "Round(720 - Atan2 ...)";
   - Bridges // Taken from Spin Engine;
   - Swing Rope;
   - Afterimage;
