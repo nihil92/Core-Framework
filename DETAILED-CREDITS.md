@@ -24,22 +24,20 @@
 - Pause System;
 - Flying and classic signpost.
 - Moving platforms and attachable objects.
-- Bumpers, bounce floors and pinball Flippers.
-- Conveyor Belts;
+- Bumpers, bounce floors and pinball flippers.
+- Conveyor Belts.
 - Switches & Doors.
-  - Teleport Orb; // Originally on Sonic Worlds, remade by myself;
-  - Hang Lift; // Originally on Sonic Worlds, remade by myself;
-  - Bounce Floor;
-  - Oil; // With help of Ice;
-  - Fireball Thrower;
-  - Extended Camera, Looking Up and Down;
-  - Titlecard;
-  - Titlecard Text Blitter; // Thanks to DIYBandits for the tutorial that I learned it!
-  - Gumball Machine;
-  - Wrecking Ball Boss; // With the support of YD on math;
-  - Menus;
-  - Debug Mode // Originally made by Carlos Ushiromiya, remade by myself;
-  - Audio System // Modified from Not So Simple Sonic Worlds;
+- Teleport Orb; // Originally on Sonic Worlds, remade by myself;
+- Hang Lift; // Originally on Sonic Worlds, remade by myself;
+- Oil; // With help of Ice;
+- Fireball Thrower;
+- Extended Camera, Looking Up and Down;
+- Titlecard;
+- Titlecard Text Blitter; // Thanks to DIYBandits for the tutorial that I learned it!
+- Gumball Machine;
+- Wrecking Ball Boss; // With the support of YD on math;
+- Menus;
+- Debug Mode // Originally made by Carlos Ushiromiya, remade by myself;
 
 ## Lighto
   - Control (Movement);
