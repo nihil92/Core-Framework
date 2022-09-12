@@ -12,38 +12,21 @@
 ## Nihil
 - Sensors, collision, physics and character actions.
 - Data, Display, Input and Music.
-- Rings, checkpoint, springs, monitors, spikes, moving spikes and enemies.
-- Common gimmicks, like moving platform, falling platforms, pushables, semi-solids, s-tunnels, swing objects and bumpers.
+- Rings, checkpoints, springs, monitors, spikes, moving spikes and enemies.
+- Common gimmicks, like moving platform, falling platforms, pushables, semi-solids, s-tunnels and swing objects.
 - Shields, score combos and flickies behavior.
 - Active Parallax System.
-
-
-## Nihil
-  - Sensors;
-  - Collisions and Landing; // Ceiling Landing had a hand of YD;
-  - Control (Movement), Movement Routines and Physics tweaking;
-  - Player Animation // Jumping and Rolling by Chopp;
-  - Most of the actions; // Ray's Gliding by Yonatankr and Lighto. Sonic's Drop Dash by Lighto;
-  - Data, Display and Audio Settings;
-  - Input for Keyboards;
-  - Pause System;
-  - Rings; // Thanks to CesarFernandes to teach me the collision mask method.
-  - Springs, Spikes and Enemies;
-  - P3D Spike Balls // With Lighto's tweaks;
-  - Signpost;
-  - Checkpoints;
-  - Moving platforms and attachable objects;
-  - Breakable Walls and Blocks;
-  - Pushable Objects;
-  - Falling Platforms;
-  - Swing Objects;
-  - Monitors // Y.D. helped with the collisions;
-  - Active Parallax System;
-  - Shields, Score Combos and Animals Behavior;
-  - Bumpers and Pinball Flippers;
-  - Conveyor Belts;
-  - S-Tunnels;
-  - Switches & Doors;
+- Collisions and Landing; // Ceiling Landing had a hand of YD;
+- Control (Movement), Movement Routines and Physics tweaking;
+- Player Animation // Jumping and Rolling by Chopp;
+- Most of the actions; // Ray's Gliding by Yonatankr and Lighto. Sonic's Drop Dash by Lighto;
+- Data, Display and Audio Settings;
+- Pause System;
+- Flying and classic signpost.
+- Moving platforms and attachable objects.
+- Bumpers, bounce floors and pinball Flippers.
+- Conveyor Belts;
+- Switches & Doors.
   - Teleport Orb; // Originally on Sonic Worlds, remade by myself;
   - Hang Lift; // Originally on Sonic Worlds, remade by myself;
   - Bounce Floor;
