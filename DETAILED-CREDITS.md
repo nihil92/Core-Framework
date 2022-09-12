@@ -7,10 +7,16 @@
 - **Music:** DJ Vertstyle and Nuclear.
 - **Special Thanks:** EX64, HezMania, CesarFernandes, Phi, Uppernate and Israel.
 
-
-
-
 # Coding Credits
+
+## Nihil
+- Sensors, collision, physics and character actions.
+- Data, Display, Input and Music.
+- Rings, checkpoint, springs, monitors, spikes, moving spikes and enemies.
+- Common gimmicks, like moving platform, falling platforms, pushables, semi-solids, s-tunnels, swing objects and bumpers.
+- Shields, score combos and flickies behavior.
+- Active Parallax System.
+
 
 ## Nihil
   - Sensors;
