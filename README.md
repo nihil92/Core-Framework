@@ -7,7 +7,7 @@ Core is high-level Sonic framework made for Clickteam Fusion 2.5 Plus.
 # Credits
 
 - **Project Leader** Nihil.
-- **Programming:** Nihil, Lighto, YohananDiamond, Chopp, Dark and Yonatankr.
+- **Programming:** Nihil, Lighto, YohananDiamond, Chopp, Dark, Yonatankr and Ice.
 - **Art:** Tyson Tay, joshyflip, Dolphman, Ainand, Yolkin, Tales499, Jeloboi, Grakai, Louplayer and Troopsushi.
 - **Level Design:** Ainand, Dark, Chopp and Nihil.
 - **Music:** DJ Vertstyle and Nuclear.
