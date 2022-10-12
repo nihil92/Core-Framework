@@ -83,13 +83,13 @@ To use the loop system, simply set the values of LoopEnd and LoopStart to the co
 
 The loop points are measured exactly like normal music. But it can be confusing without the colons. so 123000 would be 1:23 exactly.
 
-## Parallax System
+# Parallax System
 
-#### INTRODUCTION
+### INTRODUCTION
 
 As a alternative for the parallax system from Sonic Worlds, we decided to work on a completely new system, built from the ground up. In addition to allowing easily animated parallaxes, it offers an better performance than using Background System Box, built-in layers system or through the Layer Object extension. However, it can be tricky to use without understanding how this system works first.
 
-#### BASIC USAGE
+### BASIC USAGE
 
 First, keep in mind that you can use whatever size you like, as long as all the pieces are at least the size of the window. If your game uses 320×224, all pieces must be **at least** this size. Otherwise, gaps between the parallax pieces can become visible. Furthermore, it is important that you keep all the pieces to the top left hotspot (0,0) and make sure all of the pieces have the same size (e.g. if you have a piece with 640x480 of size, make all the others have the same size). 
 
@@ -99,7 +99,7 @@ The system is fully automated, so you don't need to mess around with math for ea
 
 Parallax has support for act transition, but this can be complex for beginners. The fact is that when the transition is activated, the framework automatically loads the positions that each piece of parallax had in the previous level room. Note that in ACT 1 the parallax IDs range from 1 to 4, but in ACT 2 they range from -1 to 4. This is because ACT 2 also uses the parallaxes from ACT 1. So to prevent them from appearing incorrectly in the transition, the IDs of each parallax piece need to match what they were in the previous level.
 
-## Layer Switching
+# Layer Switching
 
 To prevent the player to gets stuck in loopings, please keep all the objects related to layer switching with the option "Inactive if too far from window" _DISABLED_. If you ever need the posibility of creating more complex level layouts, like S3 Angel Island Loop closer to the tree, or Sandopolis loop gimmick. With this you can get a start up in it. Layer 2 makes all layers deactivate, so you need to add an extra collision system that only checks for it. Layer 3 makes all layers activate, this can by tide to a gimmick of sort, like the already mention Sandopolis Act 2 Gimmick.
 
