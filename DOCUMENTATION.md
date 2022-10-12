@@ -4,7 +4,7 @@ This documentation is valid for version 0.23.02.
 
 # Known Issues
 
-- Crash when monitor or ring collides: These objects are highly dependent of the groups (specifically 0, 1 and Obstacles). So all you have to do is put a dummy object with these qualifiers.
+- **Crash when monitor or ring collides:** These objects are highly dependent of the groups (specifically 0, 1 and Obstacles). So all you have to do is put a dummy object with these qualifiers.
 
 # INTRODUCTION
 
