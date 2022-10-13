@@ -2,7 +2,7 @@
 
 # Current Status
 
-Finished. If someone want to continue the releases schedule, feel free to do it.
+Finished. If someone want to continue the releases schedule, go ahead.
 
 # About
 
@@ -53,7 +53,3 @@ We can say that versions before 0.23.0 were modifications of Worlds, while versi
 # Discord Server
 
 https://discord.gg/hV6nbxwkE7
-
-# Documentation
-
-Still a work in progress. 
