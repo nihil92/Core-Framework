@@ -4,10 +4,6 @@
 
 Finished. If someone want to continue the releases schedule, go ahead.
 
-# About
-
-Core is high-level Sonic framework made for Clickteam Fusion 2.5 Plus.
-
 # Credits
 
 - **Project Leader** Nihil.
