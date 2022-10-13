@@ -1,5 +1,9 @@
 ![image](https://user-images.githubusercontent.com/66818008/143420945-0be3888e-573f-45be-b34f-399f30e1d252.png)
 
+# Current Status
+
+Finished. If someone want to continue the releases schedule, feel free to do it.
+
 # About
 
 Core is high-level Sonic framework made for Clickteam Fusion 2.5 Plus.
