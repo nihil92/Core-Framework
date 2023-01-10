@@ -45,7 +45,3 @@ We can say that versions before 0.23.0 were modifications of Worlds, while versi
 - Credit to everyone who developed this framework. It doesn't matter if you want to credit at the beginning or at the end, just credit us somehow.
 - You can use this framework to develop your own fangames and indies -- as long as you don't use anything protected by copyright in your game (e.g. don't commercialize a game using the Sonic the Hedgehog brand under any circumstances).
 - Don't re-release this framework without permission.
-
-# Discord Server
-
-https://discord.gg/hV6nbxwkE7
