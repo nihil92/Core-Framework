@@ -22,7 +22,7 @@ You need to purchase a legit [Clickteam Fusion 2.5+](https://store.steampowered.
 - 360 Platform Movement
 - Accurate Physics
 - 6 playable characters with their respective abilities
-- Support for gamepad using SDL extension
+- Support for gamepad using Joystick 2
 - 3D Sound System
 - Options (BGM and SFX volume control, screen size and save system)
 - Act transition system
