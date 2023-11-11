@@ -38,7 +38,7 @@ We rewrote the same methods as Sonic Worlds in some situations, but with a ton o
 
 We rewrote a ton of gimmicks and features from Delta into a *brand new code*, just like every action, rings, monitors, spikes, platforms, bridges, etc. Some things that naturally worked great were adapted from Sonic Worlds Delta, like water tunnels, screw, corkscrew with slight edits, but everything else was written by us. 
 
-We can say that versions before 0.23.0 were modifications of Worlds, while versions after that are a fully rewrite.
+We can say that versions before 0.23.0 were modifications of Worlds, while versions after that are a full rewrite.
 
 # Terms of Use
 
