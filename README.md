@@ -6,10 +6,10 @@ Finished. If someone want to continue the releases schedule, go ahead.
 
 # Credits
 
-- **Project Leader** Nihil.
-- **Programming:** Nihil, Lighto, YohananDiamond, Chopp, Dark, Yonatankr and Ice.
+- **Project Leader** Nihil/niilisto.
+- **Programming:** Nihil/niilisto, Lighto, YohananDiamond, Chopp, Dark, Yonatankr and Ice.
 - **Art:** Tyson Tay, joshyflip, Dolphman, Ainand, Yolkin, Tales499, Jeloboi, Grakai, Louplayer and Troopsushi.
-- **Level Design:** Ainand, Dark, Chopp and Nihil.
+- **Level Design:** Ainand, Dark, Chopp and Nihil/niilisto.
 - **Music:** DJ Vertstyle and Nuclear.
 - **Special Thanks:** EX64, HezMania, CesarFernandes, Phi, Uppernate and Israel.
 
