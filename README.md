@@ -1,8 +1,11 @@
 ![image](https://user-images.githubusercontent.com/66818008/143420945-0be3888e-573f-45be-b34f-399f30e1d252.png)
 
+![Version](https://img.shields.io/badge/build-50.3-red?style=flat-square)
+![Status](https://img.shields.io/badge/status-under%20development-yellow?style=flat-square)
+
 # Current Status
 
-Working in a new stable version. While the update is being made, the *.mfa is encrypted. Afterwards, I will unlock it.
+Working in a new stable version.
 
 # Credits
 
